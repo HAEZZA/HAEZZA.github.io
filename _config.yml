@@ -1,21 +1,21 @@
-title: TOFUHOLIC
-email: jinlovejun@gmail.com
+title: dub
+email: haezinny@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 permalink: ':categories/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tofuholic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://dub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Tofuholic # add your name
+author: dub # add your name
 author-pic: tofuholic_pic.JPG
-about-author: I am tofuholic! (like I'm groot)
+about-author: I am dub! (like I'm groot)
 
 # Contact links
 email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: tofuholic # Add your Github handle
+github: HAEZZA # Add your Github handle
 twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
