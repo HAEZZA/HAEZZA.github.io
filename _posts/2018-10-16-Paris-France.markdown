@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paris France"
+title: "Paris, France"
 date: 2018-10-16 22:59:00 +0900
 description: 그토록 고대하던 파리에 가다! # Add post description (optional)
 img: 2016-09-13-eiffel-tower.JPG # Add image post (optional)
@@ -32,15 +32,15 @@ author: dub # Add name author (optional)
 오랜만에 일기를 찾아봤는데 9/10 과 9/11의 일기가 동일하다 ㅎ ㄷ ㄷ  
 소름이 돋았다...  
 
-그리고 어릴때 손에서 놓지 못했던 괴도 루팡의 저자 모리스 르블랑의 집이 있는 에트르타   
+그리고 어릴때 손에서 놓지 못했던 괴도 루팡의 저자 모리스 르블랑의 집이 있는 에트르타(Etretat)   
 현재는 집을 개조해서 방탈출 처럼 추리 문제를 풀 수 있도록 해놓았다고 가이드 분이 말씀해 주셨다  
 프랑스어나.. 영어가 유창하면 해 볼 수 있지 않을까?   
-에트르타 - 옹플레르 - 몽생미셸은 패키지 투어였기 때문에 아쉽게도 루팡의 집엔 가보지 못했다  
+에트르타(Etretat) - 옹플레르(Honfleur) - 몽생미셸(Mont Saint-Michel)은 패키지 투어였기 때문에 아쉽게도 루팡의 집엔 가보지 못했다  
 
-몽생미셸은 "움직이는 하울의 성"의 배경이라더니   
+몽생미셸(Mont Saint-Michel)은 "움직이는 하울의 성"의 모티브라더니   
 정말 애니메이션인가 싶을 정도로 아름다워서 여기서 사는건 어떤 느낌일까 하는 생각이   
 그리고 지나가는길에 어랏? 정용화아냐? 했는데 드라마를 찍고 있었다   
 정확히 일년 후에 방영되길래(드라마의 신비) 드라마를 보며 추억을 되새김질..  
 
 
-![yummy]({{site.baseurl}}/assets/img/2016-09-12-etretat.JPG)
+![etretat]({{site.baseurl}}/assets/img/2016-09-12-etretat.JPG){: width="50%" height="50%"}
