@@ -25,7 +25,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: dubuholic # Add your discus identifier
+disqus_identifier: dubuholic # Add your discus identifier
 
 # Tracker
 analytics: UA-127601350-1 # Google Analytics
