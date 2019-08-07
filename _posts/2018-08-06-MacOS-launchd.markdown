@@ -6,7 +6,7 @@ description: stock bot을 등록하고싶다 # Add post description (optional)
 img: 2018-08-06.JPG # Add image post (optional)
 tags: [Study, MacOS, launchd]
 categories: study
-author: TOFUHOLIC # Add name author (optional)
+author: DUBUHOLIC # Add name author (optional)
 ---
 
 텔레그램 봇에 특정 주식의 주가 정보를 open, close 시간에만 받아 보고 싶어서 python으로 하나 작성했는데..   
