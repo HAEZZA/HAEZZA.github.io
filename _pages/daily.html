@@ -4,7 +4,7 @@ title: Daily
 permalink: /daily/
 ---
 <ol class="post-card-box clearfix">
-  {% for post in site.posts %} {% unless forloop.last %}
+  {% for post in site.posts %}
   {% if post.tags contains 'Daily' %}
   <li>
     <div class="post-card">
