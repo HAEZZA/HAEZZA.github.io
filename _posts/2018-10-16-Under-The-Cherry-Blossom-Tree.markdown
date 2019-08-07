@@ -5,7 +5,7 @@ date: 2019-08-07 14:45:00 +0900
 description: 벚나무 아래에서 느꼈던 행복했던 일주일 # Add post description (optional)
 img: 2019-08-07-cherry-blossome(2).JPG # Add image post (optional)
 tags: [Trip, Paris, France]
-categories: Trip
+categories: trip
 author: DUBUHOLIC # Add name author (optional)
 ---
 
