@@ -51,10 +51,7 @@
           opacity: .8;
           color: $dark-pink;
         }
-      }
-      &:hover dl {
-        display:block;
-      }
+      }      
 
       dl {
         padding: 0 15px 0;
@@ -79,6 +76,9 @@
             }
 	  }
 	}    
+      }
+      &:hover dl {
+        display:block;
       }
     }
   }
