@@ -791,8 +791,12 @@ pre {
         padding: 0 15px 0;
         margin: 0;
         list-style: none;
-        display: none; }
+        display: none;
+        height: auto;
+        z-index: 200;
+        position: absolute; }
         .main-nav ul li dl dt a {
+          display: none;
           padding: 5px 0;
           text-decoration: none;
           text-transform: uppercase;

@@ -58,8 +58,12 @@
         margin: 0;
         list-style: none;
 	display:none;
+	height:auto;
+	z-index:200;
+	position:absolute;
         dt {
           a {
+	    display:none;
             padding: 5px 0;
             text-decoration: none;
             text-transform: uppercase;
