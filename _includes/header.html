@@ -13,7 +13,6 @@
               {% capture category_name %}{{ category | first }}{% endcapture %}
               <div id="#{{ category_name | slugize }}"></div>
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
-				{% if page.categories
 				<ul>
 					(% for category2 in site.categories.{{category_name}} %}
 					{% capture category_second %}{{ category2 | first }}{% endcapture %}
