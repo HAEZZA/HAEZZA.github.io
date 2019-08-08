@@ -14,8 +14,10 @@
               <div id="#{{ category_name | slugize }}"></div>
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
 				<ul>
-						<li><a href="{{site.baseurl}}/{{category_name}}">2{{ post.categories }}</a></li>
-
+				{% if post.categories.size > 1 %}
+					{% for cate in post.categories %}
+						<li><a href="{{site.baseurl}}/{{category_name}}">2{{ cate }}</a></li>
+					{% endfor %}
 				</ul>
 			  </li>
             </div>
