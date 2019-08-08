@@ -14,10 +14,11 @@
               <div id="#{{ category_name | slugize }}"></div>
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
 				<ul>
-					{% assign trip = category_name %}
-					(% for post in site.categories[trip] %}
-					<li><a href="{{site.baseurl}}/{{category_name}}">{{ post }}</a></li>
-					{% endfor %}
+					{% if post.categories contains {{ category_name }} %}
+						(% for cate in post.categories %}
+						<li><a href="{{site.baseurl}}/{{category_name}}">{{ cate }}</a></li>
+						{% endfor %}
+					{% endif %}
 				</ul>
 			  </li>
             </div>
