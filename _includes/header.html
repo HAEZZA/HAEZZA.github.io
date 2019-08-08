@@ -18,7 +18,7 @@
 					
 					{% for cate in post.categories %}
 					{% capture nation %}{{ cate | first }}{% endcapture %}
-						<dt><a href="{{site.baseurl}}/{{category_name}}">{{ nation }}</a></dt>
+						<dt><a href="{{site.baseurl}}/{{category_name}}/{{nation}}">{{ nation }}</a></dt>
 					{% endfor %}
 				{% endif %}
 				</dl>
