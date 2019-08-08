@@ -7,7 +7,7 @@ url: "http://dubuholic.github.io" # the base hostname & protocol for your site, 
 
 # Author settings
 author: dubuholic # add your name
-author-pic: tofuholic_pic.JPG
+author-pic: dubuholic.jpg
 about-author: I am @dubuholic_! (like I'm groot)
 
 # Contact links
@@ -25,7 +25,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-disqus_identifier: dubuholic # Add your discus identifier
+disqus_identifier: tofuholic # Add your discus identifier
 
 # Tracker
 analytics: UA-127601350-1 # Google Analytics
