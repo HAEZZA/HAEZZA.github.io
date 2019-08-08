@@ -3,7 +3,7 @@ layout: post
 title: "Under The Cherry Blossom Tree"
 date: 2019-08-07 14:45:00 +0900
 description: 벚나무 아래에서 느꼈던 행복했던 일주일 # Add post description (optional)
-img: 2019-08-07-cherry-blossome(2).JPG # Add image post (optional)
+img: 2019-08-07-cherry-blossome2.JPG # Add image post (optional)
 tags: [Daily, Korea, Pangyo]
 categories: daily
 author: DUBUHOLIC # Add name author (optional)
