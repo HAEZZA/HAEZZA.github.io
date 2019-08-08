@@ -14,7 +14,7 @@
               <div id="#{{ category_name | slugize }}"></div>
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
 				<ul>
-					(% for category2 in site.categories[category_name] %}
+					(% for category2 in site.categories.trip %}
 					<li><a href="{{site.baseurl}}/{{category_name}}">{{ category2 }}</a></li>
 					{% endfor %}
 				</ul>
