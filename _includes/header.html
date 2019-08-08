@@ -15,7 +15,7 @@
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
 				<ul>
 				{% if post.categories.size > 1 %}
-					{% for cate in post.categories %}
+					{% for cate in (1..2) %}
 						<li><a href="{{site.baseurl}}/{{category_name}}">2{{ cate }}</a></li>
 					{% endfor %}
 				{% endif %]
