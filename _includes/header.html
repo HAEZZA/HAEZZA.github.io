@@ -14,10 +14,11 @@
               <div id="#{{ category_name | slugize }}"></div>
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} {{ site.categories }}</a>
 				<dl>
-				{% if post.categories contains category_name and post.categories.size > 1 %}					
-					{% for cate in post.categories %}
-					{% capture nation %}{{ cate | first }}{% endcapture %}
-						<dt><a href="{{site.baseurl}}/{{category_name}}/{{nation}}">{{ nation }}</a></dt>
+				{% if category == "trip" %}
+					{% assign sub_categories = "" | split: "" %}
+					{% for post in site.categories[category] %}
+					{% capture sub_category %}{{ post.category | first }}{% endcapture %}
+						<dt><a href="{{site.baseurl}}/{{category_name}}/{{nation}}">{{ sub_category }}</a></dt>
 					{% endfor %}
 				{% endif %}
 				</dl>
