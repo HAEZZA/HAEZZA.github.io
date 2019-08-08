@@ -12,20 +12,9 @@
             <div class="archive-group">
               {% capture category_name %}{{ category | first }}{% endcapture %}
               <div id="#{{ category_name | slugize }}"></div>
-			  {% assign sub_categories = "aa" | split: "" %}
-			  {% if sub_categories contains category_name %}
-			  {% else %}
-              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} {{ sub_categories }}</a>
-			  {% endif %}
+              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
 				<dl>
-				{% if category_name == "TRIP" %}
-					hi
-					{% for post in site.categories[category_name] %}
-					{% capture sub_category %}{{ post.categories | first }}{% endcapture %}
-						<dt><a href="{{site.baseurl}}/{{category_name}}/{{nation}}">111{{ sub_category }} {{ post.categories }}</a></dt>
-						{% assign sub_categories = sub_categories | push: sub_category %}
-					{% endfor %}
-				{% endif %}
+					<dt><a href="{{site.baseurl}}/{{category_name}}">test</a></dt>
 				</dl>
 			  </li>
             </div>
