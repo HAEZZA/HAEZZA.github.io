@@ -52,6 +52,9 @@
           color: $dark-pink;
         }
       }
+      &:hover dl {
+        display:block;
+      }
 
       dl {
         padding: 0 15px 0;
@@ -75,10 +78,7 @@
               color: $dark-purple;
             }
 	  }
-	}
-	&:hover li {
-	  diplay:block;
-	}        
+	}    
       }
     }
   }
