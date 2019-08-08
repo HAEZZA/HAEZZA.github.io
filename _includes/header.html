@@ -12,13 +12,13 @@
             <div class="archive-group">
               {% capture category_name %}{{ category | first }}{% endcapture %}
               <div id="#{{ category_name | slugize }}"></div>
-              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} {{ site.categories }}</a>
+              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} {{catetory}}</a>
 				<dl>
-				{% if category == "trip" %}
+				{% if category_name == "trip" %}
 					{% assign sub_categories = "" | split: "" %}
 					{% for post in site.categories[category] %}
-					{% capture sub_category %}{{ post.category | first }}{% endcapture %}
-						<dt><a href="{{site.baseurl}}/{{category_name}}/{{nation}}">{{ sub_category }}</a></dt>
+					{% capture sub_category %}{{ post.categories | first }}{% endcapture %}
+						<dt><a href="{{site.baseurl}}/{{category_name}}/{{nation}}">{{ sub_category }} {{ post.categories }}</a></dt>
 					{% endfor %}
 				{% endif %}
 				</dl>
