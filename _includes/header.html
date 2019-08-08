@@ -12,10 +12,9 @@
             <div class="archive-group">
               {% capture category_name %}{{ category | first }}{% endcapture %}
               <div id="#{{ category_name | slugize }}"></div>
-              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
+              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} {{ site.categories }}</a>
 				<dl>
-				{% if post.categories contains category_name and post.categories.size > 1 %}
-					
+				{% if post.categories contains category_name and post.categories.size > 1 %}					
 					{% for cate in post.categories %}
 					{% capture nation %}{{ cate | first }}{% endcapture %}
 						<dt><a href="{{site.baseurl}}/{{category_name}}/{{nation}}">{{ nation }}</a></dt>
