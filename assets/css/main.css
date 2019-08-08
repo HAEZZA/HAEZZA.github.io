@@ -788,20 +788,20 @@ pre {
           opacity: .8;
           color: #87314e; }
       .main-nav ul li dl {
-        padding: 5px 5px 0;
+        padding: 0 15px 0;
         margin: 0;
         list-style: none; }
         .main-nav ul li dl dt a {
-          display: block;
           padding: 5px 0;
           text-decoration: none;
           text-transform: uppercase;
-          font-weight: 300;
+          font-weight: 400;
           font-size: 14px;
           color: #311e3e; }
           .main-nav ul li dl dt a:hover {
             opacity: .8;
-            color: #87314e; }
+            color: #87314e;
+            display: block; }
 
 .menu-icon-container {
   width: 25%;

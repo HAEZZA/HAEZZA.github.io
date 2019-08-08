@@ -54,21 +54,21 @@
       }
 
       dl {
-        padding: 5px 5px 0;
+        padding: 0 15px 0;
         margin: 0;
         list-style: none;
         dt {
           a {
-            display: block;
             padding: 5px 0;
             text-decoration: none;
             text-transform: uppercase;
-            font-weight: 300;
+            font-weight: 400;
             font-size: 14px;
             color: $dark-purple;
             &:hover {
               opacity: .8;
               color: $dark-pink;
+	      display: block;
             }
 	  }
         }
