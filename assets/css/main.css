@@ -796,7 +796,6 @@ pre {
         z-index: 200;
         position: absolute; }
         .main-nav ul li dl dt a {
-          display: none;
           padding: 5px 0;
           text-decoration: none;
           text-transform: uppercase;
