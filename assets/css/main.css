@@ -962,13 +962,13 @@ pre code {
   color: #87314e;
 }
 
-.main-nav dl {
+.main-nav ul li dl {
   padding: 25px 0 0;
   margin: 0;
   list-style: none;
 }
 
-.main-nav dl li a {
+.main-nav ul li dl dt a {
   display: block;
   padding: 25px 0;
   text-decoration: none;
@@ -978,7 +978,7 @@ pre code {
   color: #732642;
 }
 
-.main-nav dl li a:hover {
+.main-nav ul li dl dt a:hover {
   opacity: .8;
   color: #d4487b;
 }
