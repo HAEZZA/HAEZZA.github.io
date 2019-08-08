@@ -19,8 +19,8 @@
 			  {% endif %}
 				<dl>
 				{% if category_name == "TRIP" %}
-					
-					{% for post in site.categories[category] %}
+					hi
+					{% for post in site.categories[category_name] %}
 					{% capture sub_category %}{{ post.categories | first }}{% endcapture %}
 						<dt><a href="{{site.baseurl}}/{{category_name}}/{{nation}}">111{{ sub_category }} {{ post.categories }}</a></dt>
 						{% assign sub_categories = sub_categories | push: sub_category %}
