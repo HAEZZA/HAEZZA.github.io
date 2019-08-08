@@ -8,7 +8,7 @@
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
         <ul>
           <div id="archives">
-          {% for category in site.categories %}
+          {%- for category in site.categories -%}
             <div class="archive-group">
               {% capture category_name %}{{ category | first }}{% endcapture %}
               <div id="#{{ category_name | slugize }}"></div>
@@ -23,7 +23,7 @@
 				</dl>
 			  </li>
             </div>
-          {% endfor %}
+          {%- endfor -%}
             <li><a href="{{site.baseurl}}/about">About</a></li>
           </div>
         </ul>

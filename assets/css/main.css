@@ -792,6 +792,7 @@ pre {
         margin: 0;
         list-style: none; }
         .main-nav ul li dl dt a {
+          display: block;
           padding: 5px 0;
           text-decoration: none;
           text-transform: uppercase;
@@ -802,6 +803,8 @@ pre {
             opacity: .8;
             color: #87314e;
             display: block; }
+        .main-nav ul li dl:hover li {
+          diplay: block; }
 
 .menu-icon-container {
   width: 25%;
