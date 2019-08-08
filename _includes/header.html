@@ -15,8 +15,8 @@
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
 				<ul>
 					(% for category2 in site.categories.{{category_name}} %}
-					{% capture category_second %}{{ category2 | first }}{% endcapture %}
-					<li><a href="{{site.baseurl}}/{{category_name}}/{{category_second}}">{{ category_second }}</a></li>
+					##{% capture category_second %}{{ category2 | first }}{% endcapture %}
+					<li><a href="{{site.baseurl}}/{{category_name}}">{{ category2 }}</a></li>
 					{% endfor %}
 				</ul>
 			  </li>
