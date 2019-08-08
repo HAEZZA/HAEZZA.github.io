@@ -790,7 +790,8 @@ pre {
       .main-nav ul li dl {
         padding: 0 15px 0;
         margin: 0;
-        list-style: none; }
+        list-style: none;
+        display: none; }
         .main-nav ul li dl dt a {
           padding: 5px 0;
           text-decoration: none;
