@@ -14,7 +14,11 @@
               <div id="#{{ category_name | slugize }}"></div>
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
 				<dl>
-					<dt><a href="{{site.baseurl}}/{{category_name}}">test</a></dt>
+				{% if category_name == "TRIP" %}
+					<dt><a href="{{site.baseurl}}/{{category_name}}/france">France</a></dt>
+					<dt><a href="{{site.baseurl}}/{{category_name}}/greece">Greece</a></dt>
+					<dt><a href="{{site.baseurl}}/{{category_name}}/japan">Japan</a></dt>
+				{% endif %}
 				</dl>
 			  </li>
             </div>

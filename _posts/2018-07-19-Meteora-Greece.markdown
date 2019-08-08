@@ -5,7 +5,7 @@ date: 2018-07-19 22:26:00 +0900
 description: 그리스 여행에서 가장 행복했던 곳 메테오라 # Add post description (optional)
 img: 2017-04-30_meteora.JPG # Add image post (optional)
 tags: [Trip, Greece, Meteora]
-categories: [trip, greece]
+categories: trip
 author: DUBUHOLIC # Add name author (optional)
 ---
 > 이직을 하고 마음에 여유가 생겨서 블로그를 시작해보기로 했다.  
