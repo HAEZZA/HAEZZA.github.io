@@ -59,17 +59,15 @@
         list-style: none;
         dt {
           a {
-	    display: block;
             padding: 5px 0;
             text-decoration: none;
             text-transform: uppercase;
             font-weight: 400;
             font-size: 14px;
-            color: $dark-purple;
+            color: $dark-pink;
             &:hover {
               opacity: .8;
-              color: $dark-pink;
-	      display: block;
+              color: $dark-purple;
             }
 	  }
 	}
