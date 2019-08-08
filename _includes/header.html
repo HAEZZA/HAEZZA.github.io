@@ -15,8 +15,10 @@
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
 				<dl>
 				{% if post.categories.size > 1 %}
+					
 					{% for cate in post.categories %}
-						<dt><a href="{{site.baseurl}}/{{category_name}}">2{{ cate }}</a></dt>
+					{% capture nation %}{{ cate | first }}{% endcapture %}
+						<dt><a href="{{site.baseurl}}/{{category_name}}">{{ nation }}</a></dt>
 					{% endfor %}
 				{% endif %}
 				</dl>
@@ -25,8 +27,6 @@
           {% endfor %}
             <li><a href="{{site.baseurl}}/about">About</a></li>
           </div>
-
-          
         </ul>
       </nav>
       <p class="logo"><a href="{{site.baseurl}}/">{{ site.author }}</a></p>
