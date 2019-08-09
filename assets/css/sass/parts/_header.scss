@@ -62,11 +62,11 @@
       	z-index:200;
       	position:absolute;
         dt {
+	  border-top: 1px solid $lighten-gray;
           a {
             background-color: $white;
             padding: 5px 0;
             text-decoration: none;
-            text-transform: uppercase;
             font-weight: 400;
             font-size: 14px;
             color: $dark-pink;

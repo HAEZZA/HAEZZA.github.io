@@ -795,17 +795,18 @@ pre {
         height: auto;
         z-index: 200;
         position: absolute; }
-        .main-nav ul li dl dt a {
-          background-color: #fff;
-          padding: 5px 0;
-          text-decoration: none;
-          text-transform: uppercase;
-          font-weight: 400;
-          font-size: 14px;
-          color: #87314e; }
-          .main-nav ul li dl dt a:hover {
-            opacity: .8;
-            color: #311e3e; }
+        .main-nav ul li dl dt {
+          border-top: 1px solid #d9d9d9; }
+          .main-nav ul li dl dt a {
+            background-color: #fff;
+            padding: 5px 0;
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 14px;
+            color: #87314e; }
+            .main-nav ul li dl dt a:hover {
+              opacity: .8;
+              color: #311e3e; }
       .main-nav ul li:hover dl {
         display: block; }
 
