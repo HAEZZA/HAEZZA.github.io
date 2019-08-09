@@ -78,10 +78,10 @@ author: DUBUHOLIC # Add name author (optional)
 #### <span style="color:red">**Task List**</span>  
 
 	- [x] 완료  
-	- [] 미완료  
+	- [ ] 미완료  
 
 - [x] 완료  
-- [] 미완료  
+- [ ] 미완료  
 
 #### <span style="color:red">**Code Blocks**</span>  
 소스 코드를 넣고 싶으면 들여쓰기로 tab 이나 space 4칸을 하고 코드를 넣거나 \`\`\` 코드 \`\`\` 로 하면된다. 
@@ -102,7 +102,7 @@ author: DUBUHOLIC # Add name author (optional)
 	![caption](/assets/imag/test.jpg "dubuholic"){: width="10%" height="10%"} 사이즈 조절  
 
 
-![dubuholic]({{site.baseurl}}/assets/img/dubuholic.jpg "Dubuholic"){: width="10%" height="10%"}
+![dubuholic]({{site.baseurl}}/assets/img/dubuholic.jpg "d2019-08-09ubuholic"){: width="10%" height="10%"}
 
 #### <span style="color:red">**가로선**</span>  
 
