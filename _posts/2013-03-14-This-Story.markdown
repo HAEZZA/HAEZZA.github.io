@@ -28,4 +28,4 @@ author: dubuholic # Add name author (optional)
 그리고 타지마할, 갠지스 강, 알록달록 화려한 색상의 집 들. 사진으로 본 인도는 충분히 매력적이었다.
 
 
-![map]({{site.baseurl}}/assets/img/2013-03-14-map.jpg.JPG)
+![map]({{site.baseurl}}/assets/img/2013-03-14-map.jpg)
