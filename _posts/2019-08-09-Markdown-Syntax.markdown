@@ -64,7 +64,10 @@ author: DUBUHOLIC # Add name author (optional)
 2. 리스트  
 
 ```
-- Unordered List  
+- 순서가 없는
+	- 리스트  
+	- 리스트  
+- 리스트
 ```
 
 - 순서가 없는
@@ -74,16 +77,17 @@ author: DUBUHOLIC # Add name author (optional)
 
 #### <span style="color:red">**Task List**</span>  
 
-	[x] 완료  
-	[] 미완료  
+	- [x] 완료  
+	- [] 미완료  
 
- [x] 완료  
- [] 미완료  
+- [x] 완료  
+- [] 미완료  
 
 #### <span style="color:red">**Code Blocks**</span>  
 소스 코드를 넣고 싶으면 들여쓰기로 tab 이나 space 4칸을 하고 코드를 넣거나 \`\`\` 코드 \`\`\` 로 하면된다. 
 
 	common.py
+
 	import json
 	def Run(FILENAME, matchkey, parent, child):
 		with open (BASEDIR + FILENAME, 'r', 'utf8') as f:
@@ -94,8 +98,8 @@ author: DUBUHOLIC # Add name author (optional)
 #### <span style="color:red">**Images**</span>  
 
 	![caption](/assets/imag/test.jpg) 기본형  
-	![caption](/assets/imag/test.jpg "Dubunolic") 마우스 오버시 타이틀 나오게  
-	![caption](/assets/imag/test.jpg "Dubunolic"){: width="10%" height="10%"} 사이즈 조절  
+	![caption](/assets/imag/test.jpg "dubuholic") 마우스 오버시 타이틀 나오게  
+	![caption](/assets/imag/test.jpg "dubuholic"){: width="10%" height="10%"} 사이즈 조절  
 
 
 ![dubuholic]({{site.baseurl}}/assets/img/dubuholic.jpg "Dubuholic"){: width="10%" height="10%"}
@@ -108,10 +112,15 @@ author: DUBUHOLIC # Add name author (optional)
 	3개 이상이면 됨
 
 \***  
+
 ***
+
 \----  
+
 ----
+
 \_____  
+
 _____
 
 #### <span style="color:red">**Tables**</span>  
@@ -122,7 +131,7 @@ _____
 	| 반복되는 |삶 |
 
 | 어제 |오늘 |
-| :---: | :---: |
+| :-----: | :-----: |
 | 그리고 | 내일 |
 | 반복되는 | 삶 |
 
