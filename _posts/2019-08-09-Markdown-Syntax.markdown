@@ -13,12 +13,14 @@ author: DUBUHOLIC # Add name author (optional)
 
 ### Font Size  
 
-\# 제목  # 제목  
-\#\# 제목  ## 제목  
-\#\#\# 제목  ### 제목  
-\#\#\#\# 제목  #### 제목  
-\#\#\#\#\# 제목  ##### 제목  
-\#\#\#\#\#\# 제목  ###### 제목  
+| Markdown | Output |
+|:---:|:---:|
+|\# 제목| # 제목  |
+|\#\# 제목|  ## 제목  |
+|\#\#\# 제목|  ### 제목 |  
+|\#\#\#\# 제목|  #### 제목 |  
+|\#\#\#\#\# 제목|  ##### 제목 |  
+|\#\#\#\#\#\# 제목|  ###### 제목 |  
 
 ### 줄바꿈
 줄바꿈은 라인 끝에 space 2칸 이상  
@@ -26,7 +28,7 @@ author: DUBUHOLIC # Add name author (optional)
 
 ### 강조
 | Markdown | Output |
-|---|:---:|---:|
+|:---:|:---:|
 |\*\*text\*\* | **Bold** |  
 | \*text\* | *Italic* |  
 | \*\*\*text\*\*\* | ***Bold and Italic*** |
@@ -52,6 +54,13 @@ author: DUBUHOLIC # Add name author (optional)
 	- 리스트  
 - 리스트  
 
+### Task List
+\-\[x] 완료  
+\-\[] 미완료  
+
+-[x] 완료  
+-[] 미완료  
+
 ### Code Blocks
 소스 코드를 넣고 싶으면 tab 이나 space 4칸  
 
@@ -63,23 +72,41 @@ author: DUBUHOLIC # Add name author (optional)
 		for key, value in data.items():
 		. . .
 
-혹은 \`\`\` 를 소스코드 처음과 끝에 넣어주면  
-```common.py
-import json
+\`\`\` 코드 \`\`\`을 이용한 방법
 
+```
+common.py
+import json
 def Run(FILENAME, matchkey, parent, child):
 	with open (BASEDIR + FILENAME, 'r', 'utf8') as f:
 	data = json.load(f)
 	for key, value in data.items():
-	. . .```
+	. . .
+```
 
 ### Images
 \!\[caption\](/assets/imag/test.jpg) 느낌표로 시작해서 대괄호안에 캡션애용을 넣고 괄호안에 이미지 경로를 넣어주면 된다.  
-![dubuholic]({{site.baseurl}}/assets/imag/dubuholic.jpg)
+![dubuholic]({{site.baseurl}}/assets/img/dubuholic.jpg "Dubuholic")
 
 ### 가로선
 \*\*\*, \-\-\-, \_\_\_ 셋중에 하나를 3개 이상 쓰면 가로선이 만들어진다.  
----
+------  
 
-reference : https://www.markdownguide.org
+### Tables
+	\|어제\|오늘\|
+	\|---\|---\|
+	\|그리고\|내일\|
+	\|반복되는\|삶\|
+
+|어제|오늘|
+|---|---|
+|그리고|내일|
+|반복되는|삶|
+
+### 지우기 라인
+\~\~지우기\~\~ ~~지우기~~  
+
+이정도면 굳굳~
+
+reference : *[https://www.markdownguide.org](https://www.markdownguide.org "Markdown Syntax")*
 
