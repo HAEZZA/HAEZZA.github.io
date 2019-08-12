@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Start From Vientian Laos"
-date: 2013-03-14 08:00:00 +0700
+date: 2019-08-08 10:00:00 +0900
 description: 모험의 서막 # Add post description (optional)
 img: 2013-03-14-start.JPG # Add image post (optional)
 tags: [Trip, Laos, Vientian]
@@ -9,6 +9,8 @@ categories: trip
 author: dubuholic # Add name author (optional)
 ---
 
+
+[2013-03-14] 
 
 신은 실제로 존재할지도 모른다.  
 아무 생각 없이 계획 없이 무작정 비행기만 끊어서 출발한 여행이었다.  
