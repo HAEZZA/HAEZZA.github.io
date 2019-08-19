@@ -788,8 +788,8 @@ pre {
           opacity: .8;
           color: #87314e; }
       .main-nav ul li dl {
-        padding: 0 10px 0;
-        margin: 0;
+        padding: 0 80px 0;
+        margin: -4px 0;
         list-style: none;
         display: none;
         height: auto;
