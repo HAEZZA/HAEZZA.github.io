@@ -31,4 +31,4 @@ author: dubuholic # Add name author (optional)
 하지만 들어가는 음식점마다 나는 '땀미? 그게 뭐야?'라는 이야기를 들어야 했다. 난 땀미에 대해 기나긴 설명을 했고, 비슷하게 만들어 주시긴 했지만 
 내가 먹던 그 맛이 나지 않았다. 결국 난 빡세에 도착한 첫날 동안 땀미를 찾지 못했다. 카오팓 (볶음밥)을 먹고는 만족해야 했다. 
 
-<center> ![map]({{site.baseurl}}/assets/img/2019-08-17-tammakhung.jpg "출처 : https://ko.wikipedia.org/wiki/솜_땀"){: width="80%" height="80%"} </center>
+![map]({{site.baseurl}}/assets/img/2019-08-17-tammakhung.jpg "출처 : https://ko.wikipedia.org/wiki/솜_땀"){: width="100%" height="100%"}
