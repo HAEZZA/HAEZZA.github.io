@@ -45,4 +45,4 @@ author: dubuholic # Add name author (optional)
 '물론 라오스어로.'
 
 
-![map]({{site.baseurl}}/assets/img/2013-03-14-tuktuk.jpg)
+![map]({{site.baseurl}}/assets/img/2019-08-16.jpg)
