@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Am Bohemian"
+title: "I Am  A Bohemian"
 date: 2019-08-19 19:00:00 +0900
 description: 이 이야기는 # Add post description (optional)
 img: 2013-03-14-tuktuk.png # Add image post (optional)
