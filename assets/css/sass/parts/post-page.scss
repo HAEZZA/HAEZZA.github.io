@@ -13,12 +13,8 @@
 }
 
 .pate-quote {
-  display: table;
-
-  span {
-    display: table-cell;
-    vertical-align: middle;
-  }
+  text-align: center;
+  font-size: large;
 
   .before {
     content: url("../img/parsley.jpg");

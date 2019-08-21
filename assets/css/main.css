@@ -979,10 +979,8 @@ pre {
     width: 100%; }
 
 .pate-quote {
-  display: table; }
-  .pate-quote span {
-    display: table-cell;
-    vertical-align: middle; }
+  text-align: center;
+  font-size: large; }
   .pate-quote .before {
     content: url("../img/parsley.jpg"); }
   .pate-quote .after {
