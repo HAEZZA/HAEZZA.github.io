@@ -15,14 +15,14 @@
 .page-quote {
   text-align: center;
   font-size: large;
-}
 
-.page-quote.before {
+  :before {
     content: url("../img/parsley.jpg");
-}
+  }
 
-.page-quote.after {
+  :after {
     content: url("../img/parsley.jpg");
+  }
 }
 
 .page-content {

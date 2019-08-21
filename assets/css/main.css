@@ -981,12 +981,10 @@ pre {
 .page-quote {
   text-align: center;
   font-size: large; }
-
-.page-quote.before {
-  content: url("../img/parsley.jpg"); }
-
-.page-quote.after {
-  content: url("../img/parsley.jpg"); }
+  .page-quote :before {
+    content: url("../img/parsley.jpg"); }
+  .page-quote :after {
+    content: url("../img/parsley.jpg"); }
 
 .page-content {
   margin-top: -80px;
