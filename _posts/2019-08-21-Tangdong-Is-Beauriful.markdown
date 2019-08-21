@@ -14,7 +14,7 @@ author: dubuholic # Add name author (optional)
 
 짧아진 머리칼을 억지로 묶은 후 방을 나가 숙소 로비에서 뒹굴뒹굴했다.
 
-### <p class="page-quote">여기가 바로 와이파이 맛집이얏</p>
+<p class="page-quote">여기가 바로 와이파이 맛집이얏</p>  
 
 &nbsp;&nbsp;오후 5시쯤 슬슬 나가서 배를 채워볼까 했지만 와이파이 맛집에서 시원한 공기를 쐐다가 잠이 들어 버렸다. <span style="color:#006733">**쿨쿨.**</span> 
 6시쯤 웅성대는 소리에 일어나 먹이를 찾아 헤메이는 하이에나의 모습으로 숙소 밖으로 나갔다. 
