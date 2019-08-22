@@ -984,12 +984,12 @@ pre {
   font-weight: bold; }
 
 .page-quote:before {
-  content: url("../img/left-quote2.jpg") "   ";
+  content: url("../img/left-quote.jpg") "      ";
   margin-top: -500px;
   margin-bottom: 100px; }
 
 .page-quote:after {
-  content: "   " url("../img/right-quote2.jpg");
+  content: "      " url("../img/right-quote.jpg");
   margin-top: -500px;
   margin-bottom: 100px; }
 
