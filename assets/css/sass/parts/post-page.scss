@@ -15,15 +15,15 @@
 .page-quote {
   text-align: center;
   font-size: large;
-
-  :before {
-    content: url("../img/parsley.jpg");
-  }
-
-  :after {
-    content: url("../img/parsley.jpg");
-  }
 }
+.page-quote:before {
+    content: url("parsley.jpg");
+  }
+
+.page-quote:after {
+    content: url("../img/parsley.jpg");
+  }
+
 
 .page-content {
   margin-top: -80px;
