@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .highlight {
   background-color: #faf9f9;
   border-radius: 3px;
@@ -984,12 +985,12 @@ pre {
   font-weight: bold; }
 
 .page-quote:before {
-  content: url("../img/left-quote.jpg") "&nbsp;&nbsp;&nbsp;&nbsp;";
+  content: url("../img/left-quote.jpg") "  ";
   margin-top: -500px;
   margin-bottom: 100px; }
 
 .page-quote:after {
-  content: "&nbsp;&nbsp;&nbsp;&nbsp;" url("../img/right-quote.jpg");
+  content: "  " url("../img/right-quote.jpg");
   margin-top: -500px;
   margin-bottom: 100px; }
 
