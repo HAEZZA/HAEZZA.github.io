@@ -15,7 +15,7 @@ author: dubuholic # Add name author (optional)
 &nbsp;&nbsp;자고 일어났더니 짧게 자른 머리와 염색으로 빨개진 상한 머리가 파슬파슬 파슬리![파슬리]({{site.baseurl}}/assets/img/parsley.jpg "출처: pixabay.com"){: width="3%" height="3%"}다. 
 거울을 보자 주먹으로 거울을 내려치고 싶은 충동이 들었으나, 내 손은 소중하니 관두기로 했다. 그리고 긴 머리일 때도 예쁘진 않았다며 셀프 위로했다. 근데 왜 눈물이 나지.
 
-&nbsp;&nbsp;어제 무려 80,000낍을 내고 정말 잠깐 Day-Tour를 해준 '뻑'은 오늘 아침에 나를 태워 [왓푸](https://www.google.com/maps/place/Wat+Phu/@14.8485283,105.8211067,17z/data=!3m1!4b1!4m5!3m4!1s0x31148ad33acdf9eb:0x986d341e45572b1c!8m2!3d14.8485231!4d105.8232954?authuser=1 target="_blank")에 데려가기로 했지만 오지 않는다. 
+&nbsp;&nbsp;어제 무려 80,000낍을 내고 정말 잠깐 Day-Tour를 해준 '뻑'은 오늘 아침에 나를 태워 [왓푸](https://www.google.com/maps/place/Wat+Phu/@14.8485283,105.8211067,17z/data=!3m1!4b1!4m5!3m4!1s0x31148ad33acdf9eb:0x986d341e45572b1c!8m2!3d14.8485231!4d105.8232954?authuser=1){:target="_blank"}에 데려가기로 했지만 오지 않는다. 
 역시나 약속이란 그런 것이다. 
 
 <p class="page-quote">약속은 깨야 제맛.</p>  
