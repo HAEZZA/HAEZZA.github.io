@@ -16,16 +16,17 @@
   text-align: center;
   font-size: large;
   font-weight: bold;
+  margin: 0 50px;
  }
 
 .page-quote:before {
     content: url("../img/left-quote.jpg");
-    top: -20px;
+    margin-top: -50px;
 }
 
 .page-quote:after {
     content: url("../img/right-quote.jpg");
-    top: -20px;
+    margin-top: -50px;
 }
 
 .page-content {
