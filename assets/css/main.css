@@ -996,6 +996,7 @@ pre {
   margin-bottom: 100px; }
 
 .page-caption {
+  text-align: center;
   font-family: 'Cute Font', cursive;
   font-size: 11px;
   color: #000;
