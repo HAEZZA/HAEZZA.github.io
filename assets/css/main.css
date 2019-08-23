@@ -1001,6 +1001,7 @@ pre {
   color: #9b0002; }
 
 .page-content {
+  font-family: 'Nanum Pen Script', cursive;
   margin-top: -80px;
   margin-bottom: 100px;
   background-color: #fff;
@@ -1013,7 +1014,7 @@ pre {
   position: relative;
   margin-bottom: 30px; }
   .header-page h1 {
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 36px;
     text-align: center;
