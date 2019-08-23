@@ -40,5 +40,5 @@ author: dubuholic # Add name author (optional)
 흙을 씹어 먹어도 맛있을 것 같았다.    
 
 
-![Street Food]({{site.baseurl}}/assets/img/2019-08-23-Street-Food.jpg "인도 길거리 음식"){: width="100%" height="100%"}  
+<img src="/assets/img/2019-08-23-Street-Food.jpg" alt="인도 길거리 음식" class="center" style="width: 100%; height: auto;">  
 <p class="page-caption">인도 길거리 음식 [뭔지 모르지만 꿀맛]</p>  
