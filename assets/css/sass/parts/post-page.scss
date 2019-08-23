@@ -21,13 +21,13 @@
 
 .page-quote:before {
   content: url("../img/left-quote.jpg") "\00a0 \00a0 ";
-  position: absolute;
+  position: relative;
   margin-top: -5px;
 }
 
 .page-quote:after {
   content: "\00a0 \00a0 " url("../img/right-quote.jpg");
-  position: absolute;
+  position: relative;
   margin-top: -5px;
 }
 
