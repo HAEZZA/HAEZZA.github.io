@@ -970,9 +970,9 @@ pre {
 /* = = = = = = = = = = Post-Page Styles = = = = = = = = = = */
 .page-image {
   position: relative;
-  text-align: center;
   padding: 0;
-  margin: 0;
+  display: block;
+  margin: 0px auto;
   height: 500px;
   background-color: #fff;
   overflow: hidden; }
