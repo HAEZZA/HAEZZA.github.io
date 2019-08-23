@@ -982,7 +982,8 @@ pre {
 .page-quote {
   text-align: center;
   font-size: large;
-  font-weight: bold; }
+  font-weight: bold;
+  color: #000; }
 
 .page-quote:before {
   content: url("../img/left-quote.jpg") "  ";
@@ -1001,7 +1002,7 @@ pre {
   color: #9b0002; }
 
 .page-content {
-  font-size: 20px;
+  font-size: 17px;
   color: #616161;
   margin-top: -80px;
   margin-bottom: 100px;
