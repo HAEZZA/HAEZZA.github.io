@@ -54,4 +54,4 @@ author: dubuholic # Add name author (optional)
 
 
 ![map]({{site.baseurl}}/assets/img/2019-08-23-bicycle.jpg "왓푸 가는 길"){: width="100%" height="100%"}  
-왓푸 가는 길
+<p class="page-caption">왓푸 가는 길</p>

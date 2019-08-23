@@ -40,3 +40,4 @@ author: DUBUHOLIC # Add name author (optional)
 이번 달 카드값이 얼마 나왔더라...   
 
 ![제주 한라수목원 초입]({{site.baseurl}}/assets/img/2019-08-07-cherry-blossome.jpg)
+<p class="page-caption">제주 한라수목원 초입</p>

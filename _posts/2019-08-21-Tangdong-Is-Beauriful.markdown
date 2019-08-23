@@ -49,3 +49,4 @@ author: dubuholic # Add name author (optional)
 
 
 ![map]({{site.baseurl}}/assets/img/2019-08-21-tangdong.jpg "라오스 결혼식"){: width="100%" height="100%"}
+<p class="page-caption">라오스 결혼식</p>

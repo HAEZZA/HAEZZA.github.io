@@ -45,3 +45,4 @@ author: dubuholic # Add name author (optional)
 하.. 그때의 쾌감이란 10년 묵은 찌든 때가 벗겨지는 듯한 뭐 그런 느낌이었다.  
 
 ![map]({{site.baseurl}}/assets/img/2019-08-17-airplane.jpg)
+<p class="page-caption">네팔 카트만두로 가는 에어아시아</p>

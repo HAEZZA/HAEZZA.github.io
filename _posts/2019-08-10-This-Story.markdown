@@ -35,3 +35,4 @@ author: dubuholic # Add name author (optional)
 
 
 ![map]({{site.baseurl}}/assets/img/2013-03-14-map.jpg)
+<p class="page-caption">이동 경로</p>

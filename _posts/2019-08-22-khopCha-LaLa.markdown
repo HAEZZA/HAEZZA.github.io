@@ -43,3 +43,4 @@ author: dubuholic # Add name author (optional)
 <p class="page-quote">멘붕</p>
 
 ![map]({{site.baseurl}}/assets/img/2019-08-22-man-with-flowers.jpg "룸비니의 꽃을 든 아이들"){: width="100%" height="100%"}
+<p class="page-caption">룸비니의 꽃을 든 아이들</p>

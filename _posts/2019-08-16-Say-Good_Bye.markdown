@@ -54,3 +54,4 @@ author: dubuholic # Add name author (optional)
 
 
 ![map]({{site.baseurl}}/assets/img/2019-08-16.jpg)
+<p class="page-caption">네팔 카트만두 골목길</p>

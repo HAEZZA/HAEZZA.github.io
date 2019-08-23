@@ -46,6 +46,5 @@ author: dubuholic # Add name author (optional)
 
 > <span style="color:#006733">당시 환율로 대충 8,000낍 = 1,000원 으로 생각하면되는데 한번 뚝뚝을 탈때마다 2-3만낍을 요구하니 저렴하다고 생각했다.</span>
 
-| ![map]({{site.baseurl}}/assets/img/2019-08-19-mekong.jpg "Mekong R"){: width="100%" height="100%"} |
-| :--: |
-| 돈콘에서 본 메콩강 |
+![map]({{site.baseurl}}/assets/img/2019-08-19-mekong.jpg "Mekong R"){: width="100%" height="100%"}  
+<p class="page-caption">돈콘에서 본 메콩강</p>
