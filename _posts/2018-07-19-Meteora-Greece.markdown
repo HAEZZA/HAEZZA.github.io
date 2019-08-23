@@ -36,4 +36,4 @@ hiking tour를 위해 버스에 올랐더니 어제 sunset tour에서 만났던 
 
 
 ![Meteora]({{site.baseurl}}/assets/img/2017-04-30_meteora1.JPG)
-<p class="page-caption">Meteora, Greece</p>
+<p class="page-caption">그리스 메테오라에서 하이킹 투어중</p>

@@ -43,4 +43,4 @@ author: dub # Add name author (optional)
 
 
 ![etretat]({{site.baseurl}}/assets/img/2016-09-12-etretat.JPG){: width="50%" height="50%"}
-<p class="page-caption">Etretat, France<p>
+<p class="page-caption">프랑스 에트르타 거리 방황중<p>

@@ -43,4 +43,4 @@ author: dubuholic # Add name author (optional)
 쥐가 파먹은 게 분명했다.
 
 ![map]({{site.baseurl}}/assets/img/2019-08-20-ho9.jpg "삐약 삐약"){: width="100%" height="100%"}
-<p class="page-caption">네팔, 카트만두에서 만난 원숭이</p>
+<p class="page-caption">네팔 카트만두에서 만난 원숭이</p>
