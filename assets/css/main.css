@@ -990,12 +990,12 @@ pre {
 .page-quote:before {
   content: url("../img/left-quote.jpg") "  ";
   position: absolute;
-  top: -10px; }
+  margin-top: -5px; }
 
 .page-quote:after {
   content: "  " url("../img/right-quote.jpg");
   position: absolute;
-  margin-top: -10px; }
+  margin-top: -5px; }
 
 .page-caption {
   text-align: center;
@@ -1003,7 +1003,7 @@ pre {
   font-family: 'Cute Font', cursive;
   font-size: 13px;
   color: #000;
-  margin-top: -20px; }
+  margin-top: -10px; }
 
 .page-href {
   text-decoration: none; }
@@ -1092,16 +1092,16 @@ pre {
 
 .newsletter {
   text-align: center;
-  margin-top: 20px;
-  padding-bottom: 40px;
-  margin-bottom: 20px;
+  margin-top: 30px;
+  padding-bottom: 60px;
+  margin-bottom: 30px;
   border-bottom: 1px solid #efefef; }
   .newsletter .newsletter-title {
     font-weight: 400; }
   .newsletter .form-container {
     padding: 30px;
     background-color: #efefef;
-    width: 600px;
+    width: 720px;
     max-width: 100%;
     margin: 0 auto; }
     .newsletter .form-container p {
