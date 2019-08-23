@@ -997,10 +997,11 @@ pre {
 
 .page-caption {
   text-align: center;
+  font-weight: bold;
   font-family: 'Cute Font', cursive;
   font-size: 11px;
   color: #000;
-  margin-top: -80px; }
+  margin-top: -10px; }
 
 .page-href {
   text-decoration: none; }
