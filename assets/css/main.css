@@ -979,6 +979,17 @@ pre {
     height: 100%;
     width: 100%; }
 
+.page-last-image {
+  text-align: center;
+  height: 100%;
+  width: 100%; }
+  .page-last-image p {
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    color: #000;
+    margin-top: -17px; }
+
 .page-quote {
   text-align: center;
   font-size: large;
@@ -994,12 +1005,6 @@ pre {
   content: "  " url("../img/right-quote.jpg");
   position: relative;
   margin-top: -5px; }
-
-.page-caption {
-  text-align: center;
-  font-size: 13px;
-  color: #000;
-  margin-top: -17px; }
 
 .page-href {
   text-decoration: none; }
