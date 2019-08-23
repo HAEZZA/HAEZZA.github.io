@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown Syntax"
 date: 2019-08-09 11:15:00 +0900
-description: 벚나무 아래에서 느꼈던 행복했던 일주일 # Add post description (optional)
+description: 마크다운 문법 간단 정리 # Add post description (optional)
 img: 2019-08-09-markdown.JPG # Add image post (optional)
 tags: [Study, Markdown, Syntax]
 categories: study

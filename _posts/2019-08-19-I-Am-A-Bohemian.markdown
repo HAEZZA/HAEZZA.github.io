@@ -32,7 +32,7 @@ author: dubuholic # Add name author (optional)
 > 숙소를 잡지 않은 상태로 늦은 시간에 낯선 곳에 당도한다거나 하는 것들이 대부분이었다.   
 
 
-> 이렇듯 잘 돌아온 것을 보면 원기옥처럼 모아 오던 내 운을 이때 다 써버린 것이 분명하다. ![tears-pepe]({{site.baseurl}}/assets/img/tears-pepe2.JPG "pepe"){: width="4%" height="4%"}  
+> 하지만 이렇게 잘 돌아온 것을 보면 원기옥처럼 모아 오던 내 운을 이때 다 써버린 것이 분명하다. ![tears-pepe]({{site.baseurl}}/assets/img/tears-pepe2.JPG "pepe"){: width="4%" height="4%"}  
  
  
 아저씨는 관광지 팜플렛 같은 것을 보여주시며 '너 어디 가니?' 를 시전 하셨다. 하지만 난 별다른 대답을 하지 않고 관심이 없는 척했다.   
