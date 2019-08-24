@@ -30,6 +30,6 @@ author: dubuholic # Add name author (optional)
  
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-24-baby.JPEG" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-24-Baby.JPEG" style="width: 100%; height: auto;">   
         <p>인도 아그라 [아그라포트] 에서 만난 애기</p>
 </div>
