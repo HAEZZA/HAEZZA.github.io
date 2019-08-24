@@ -38,7 +38,9 @@ author: dubuholic # Add name author (optional)
 그렇게 친절한 라오스 가족들 덕분에 돌아올 때는 편하게 숙소까지 돌아올 수 있었다. 라오스어를 할 수 있는 것에 감사해하며 저녁을 흡입했다.  
 
 흙을 씹어 먹어도 맛있을 것 같았다.    
+ 
 
-
-<img src="/assets/img/2019-08-23-Street-Food.jpg" alt="인도 길거리 음식" class="center" style="width: 100%; height: auto;">  
-<p class="page-caption">인도 길거리 음식 [뭔지 모르지만 꿀맛]</p>  
+<div class="page-last-image">
+        <img src="/assets/img/2019-08-23-Street-Food.jpg" style="width: 100%; height: auto;">   
+        <p>인도 길거리 음식 [뭔지 모르지만 꿀맛]</p>
+</div>

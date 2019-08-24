@@ -39,5 +39,7 @@ author: dubuholic # Add name author (optional)
 <span style="color:red">\'난 오늘만 사니까\'</span>   
 
 
-![map]({{site.baseurl}}/assets/img/2013-03-14-cochin.jpg)
-<p class="page-caption">인도 코친의 노을지는 바닷가</p>
+<div class="page-last-image">
+        <img src="/assets/img/2013-03-14-cochin.jpg" style="width: 100%; height: auto;">   
+        <p>인도 코친의 노을지는 바닷가</p>
+</div>

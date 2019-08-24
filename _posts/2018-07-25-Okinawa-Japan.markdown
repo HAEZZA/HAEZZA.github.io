@@ -45,5 +45,7 @@ author: DUBUHOLIC # Add name author (optional)
 
 마지막으로 단체로 구입하자고 입고오자고 한것도 아닌데 집으로 돌아가는 길엔 모두들 오리온 맥주 티셔츠를 입고 공항에 모였고 워크샵이 끝났다.    
 
-![Okinawa]({{site.baseurl}}/assets/img/2018-03-08_.JPG)
-<p class="page-caption">손짓 발짓으로 설명들은 꼬치 오마카세</p> 
+<div class="page-last-image">
+	<img src="/assets/img/2018-03-08_.JPG" style="width: 100%; height: auto;">   
+	<p>손짓 발짓으로 설명들은 꼬치 오마카세</p>
+</div>

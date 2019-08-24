@@ -53,5 +53,7 @@ author: dubuholic # Add name author (optional)
 '물론 라오스어로.'
 
 
-![map]({{site.baseurl}}/assets/img/2019-08-16.jpg)
-<p class="page-caption">네팔 카트만두 골목길</p>
+<div class="page-last-image">
+        <img src="/assets/img/2019-08-16.jpg" style="width: 100%; height: auto;">   
+        <p>네팔 카트만두 골목길</p>
+</div>

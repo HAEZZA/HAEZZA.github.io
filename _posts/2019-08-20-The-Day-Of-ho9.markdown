@@ -42,5 +42,8 @@ author: dubuholic # Add name author (optional)
 머리를 한 직후 언니는 드라이로 최대한 괜찮아 보이게 해 주었지만.... 난 숙소로 돌아와 그 어느 때 보다 큰 한숨과 함께, 소리 없는 아우성을 질러야만 했다.... 
 쥐가 파먹은 게 분명했다.
 
-![map]({{site.baseurl}}/assets/img/2019-08-20-ho9.jpg "삐약 삐약"){: width="100%" height="100%"}
-<p class="page-caption">네팔 카트만두에서 만난 원숭이</p>
+
+<div class="page-last-image">
+        <img src="/assets/img/2019-08-20-ho9.jpg" style="width: 100%; height: auto;">   
+        <p>네팔 카트만두에서 만난 원숭이</p>
+</div>

@@ -15,7 +15,9 @@ author: DUBUHOLIC # Add name author (optional)
 [2017-04-30 16:32]  
 
 여행 갈때면 항상 기록해두는 버릇 때문에 그날의 일기가 남겨져 있었다. 
-메테오라에 도착해서 현지투어를 예약했다. "sunset tour & hiking tour"   
+메테오라에 도착해서 현지투어를 예약했다.  
+
+"sunset tour & hiking tour"   
 
 sutset tour 때는 수도원들(꽃보다 할배 그리스편에 나온)을 돌아다니며 
 가이드 분이 설명해주셨다. 최후의 심판 프레스코가 있는 곳이 다빈치 코드에 나왔다고 하셨는데 
@@ -35,5 +37,7 @@ hiking tour를 위해 버스에 올랐더니 어제 sunset tour에서 만났던 
 메테오라  
 
 
-![Meteora]({{site.baseurl}}/assets/img/2017-04-30_meteora1.JPG)
-<p class="page-caption">그리스 메테오라에서 하이킹 투어중</p>
+<div class="page-last-image">
+	<img src="/assets/img/2017-04-30_meteora1.JPG" style="width: 100%; height: auto;">   
+	<p>그리스 메테오라에서 하이킹 투어중</p>
+</div>

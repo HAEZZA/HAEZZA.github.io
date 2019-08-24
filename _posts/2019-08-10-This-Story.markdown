@@ -34,5 +34,7 @@ author: dubuholic # Add name author (optional)
 그렇게 모험이 시작되었다.
 
 
-![map]({{site.baseurl}}/assets/img/2013-03-14-map.jpg)
-<p class="page-caption">이동 경로</p>
+<div class="page-last-image">
+        <img src="/assets/img/2013-03-14-map.jpg" style="width: 100%; height: auto;">   
+        <p>이동 경로</p>
+</div>
