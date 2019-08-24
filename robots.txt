@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dubuholic.github.io/sitemap.xml
