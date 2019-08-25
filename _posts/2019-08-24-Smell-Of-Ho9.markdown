@@ -30,7 +30,7 @@ author: dubuholic # Add name author (optional)
 
 여행사에 도착해서 투어 상품에 대해 이야기를 들었다. 흥미롭게 듣고 있다가 호구가 원데이 투어를 신청할까 고민하던 찰나 일본인 아저씨가 여행사의 미닫이 문을 열고 들어오셨다.    
 
-<p class="page-quote">휴우.. 하마터면 결재할뻔했다</p>   
+<p class="page-quote">휴우.. 하마터면 결제할뻔했다</p>   
 
 일본 아저씨가 캄보디아행 버스 티켓을 구매하고 나가신 후 여행사 직원 친구가 (어느새, 내 맘대로 친구)할 일 없으면 돈콘 구경을 시켜준다고 해서 같이 나가게 되었다.   
 
@@ -38,6 +38,6 @@ author: dubuholic # Add name author (optional)
  
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-25-DonKon.JPEG" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-25-DonKhon.JPEG" style="width: 100%; height: auto;">   
         <p>돈콘 폭포 가는 길</p>
 </div>
