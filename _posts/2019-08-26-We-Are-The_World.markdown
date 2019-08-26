@@ -2,7 +2,7 @@
 layout: post
 title: "We Are The World"
 date: 2019-08-26 11:00:00 +0900
-description: 우리는 하나 # Add post description (optional)
+description: We Are The World # Add post description (optional)
 img: 2019-08-26-Varanasi.jpg # Add image post (optional)
 tags: [Trip, Laos, Donkhon]
 categories: trip
