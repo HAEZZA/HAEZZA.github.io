@@ -2,7 +2,7 @@
 layout: post
 title: "Okinawa, Japan"
 date: 2018-07-25 12:33:00 +0900
-description: 오키나와 츄라우미 # Add post description (optional)
+description: 오키나와 워크샵 # Add post description (optional)
 img: 2018-03-08_Churaumi.JPG # Add image post (optional)
 tags: [Trip, Japan, Okinawa]
 categories: trip

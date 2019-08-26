@@ -2,7 +2,7 @@
 layout: post
 title: "MacOS launchd"
 date: 2018-08-06 23:44:00 +0900
-description: stock bot을 등록하고싶다 # Add post description (optional)
+description: stock bot을 돌리고 싶다 # Add post description (optional)
 img: 2018-08-06.JPG # Add image post (optional)
 tags: [Study, MacOS, launchd]
 categories: study

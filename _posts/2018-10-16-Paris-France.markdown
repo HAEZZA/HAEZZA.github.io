@@ -2,7 +2,7 @@
 layout: post
 title: "Paris, France"
 date: 2018-10-16 22:59:00 +0900
-description: 그토록 고대하던 파리에 가다! # Add post description (optional)
+description: 프랑스 파리에 가다 # Add post description (optional)
 img: 2016-09-13-eiffel-tower.JPG # Add image post (optional)
 tags: [Trip, France, Paris]
 categories: trip
