@@ -4,7 +4,7 @@ title: "I Am  A Bohemian"
 date: 2019-08-19 19:00:00 +0900
 description: 나는야 보헤미안 # Add post description (optional)
 img: 2013-03-14-tuktuk.png # Add image post (optional)
-tags: [Trip, Laos, Vientian]
+tags: [Trip, Laos, Pakse]
 categories: trip
 author: dubuholic # Add name author (optional)
 ---

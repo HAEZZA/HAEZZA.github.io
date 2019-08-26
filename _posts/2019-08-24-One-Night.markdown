@@ -4,7 +4,7 @@ title: "One Night"
 date: 2019-08-24 17:00:00 +0900
 description: 원나잇 # Add post description (optional)
 img: 2019-08-24-Lassi.JPEG # Add image post (optional)
-tags: [Trip, Laos, Vientian]
+tags: [Trip, Laos, Pakse]
 categories: trip
 author: dubuholic # Add name author (optional)
 ---

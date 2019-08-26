@@ -4,7 +4,7 @@ title: "Friendly Laos"
 date: 2019-08-23 18:00:00 +0900
 description: 친절한 라오스씨 # Add post description (optional)
 img: 2019-08-23-Wat-Pu.jpg # Add image post (optional)
-tags: [Trip, Laos, Vientian]
+tags: [Trip, Laos, Pakse]
 categories: trip
 author: dubuholic # Add name author (optional)
 ---

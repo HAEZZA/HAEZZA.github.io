@@ -4,7 +4,7 @@ title: "Wet With Sweat"
 date: 2019-08-23 13:00:00 +0900
 description: 온몸이 축축 # Add post description (optional)
 img: 2019-08-23-bicycle-header.jpg # Add image post (optional)
-tags: [Trip, Laos, Vientian]
+tags: [Trip, Laos, Pakse]
 categories: trip
 author: dubuholic # Add name author (optional)
 ---

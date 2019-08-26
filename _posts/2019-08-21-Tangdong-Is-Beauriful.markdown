@@ -4,7 +4,7 @@ title: "Tangdong Is Beautiful"
 date: 2019-08-21 10:00:00 +0900
 description: 땡동은 즐거워 # Add post description (optional)
 img: 2019-08-21-candle.jpg # Add image post (optional)
-tags: [Trip, Laos, Vientian]
+tags: [Trip, Laos, Pakse]
 categories: trip
 author: dubuholic # Add name author (optional)
 ---

@@ -4,7 +4,7 @@ title: "Smell Of Ho9"
 date: 2019-08-25 18:00:00 +0900
 description: 호구의 냄새가 난다. # Add post description (optional)
 img: 2019-08-25-Dock-Of-Donkon.JPEG # Add image post (optional)
-tags: [Trip, Laos, Vientian]
+tags: [Trip, Laos, Donkhon]
 categories: trip
 author: dubuholic # Add name author (optional)
 ---

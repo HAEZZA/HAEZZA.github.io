@@ -4,7 +4,7 @@ title: "What Is Your Common Sense?"
 date: 2019-08-25 22:00:00 +0900
 description: 당신의 상식은... ? # Add post description (optional)
 img: 2019-08-25-Mekong.JPEG # Add image post (optional)
-tags: [Trip, Laos, Vientian]
+tags: [Trip, Laos, Donkhon]
 categories: trip
 author: dubuholic # Add name author (optional)
 ---
