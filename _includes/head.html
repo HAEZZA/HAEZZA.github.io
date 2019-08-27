@@ -4,7 +4,11 @@
 	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta property="og:image" content="">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{site.title}}">
+	<meta property="og:description" content="{{ page.description }}">
+	<meta property="og:image" content="{{page.img}}">
+	<meta property="og:url" content="{{site.url}}">
 	<link rel="shortcut icon" href="{{ "/assets/img/dubuholic.jpg" | prepend: site.baseurl }}" type="image/jpg">
 	<link rel="apple-touch-icon" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
 	<link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/img/favicon/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
@@ -26,5 +30,5 @@
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
-	<link rel="stylesheet" href="{{ "/assets/css/main.css?ver=1" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/assets/css/main.css?" | prepend: site.baseurl }}">
 </head>
