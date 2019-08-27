@@ -67,5 +67,5 @@ author: dubuholic # Add name author (optional)
 
 <div class="page-last-image">
         <img src="/assets/img/2019-08-26-Lumbini.jpg" style="width: 100%; height: auto;">   
-        <p>룸비니 보리수 나무를 보고 숙소로 돌아가는 길</p>
+        <p>네팔 룸비니 보리수 나무를 보고 숙소로 돌아가는 길</p>
 </div>
