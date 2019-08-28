@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Say Good Bye"
+title: "안녕, 라오스 렁싼"
+cover: "Say Good Bye"
 date: 2019-08-16 14:00:00 +0900
 description: 안녕, 라오스 렁싼 # Add post description (optional)
 img: 2013-03-14-paragliding.jpg # Add image post (optional)

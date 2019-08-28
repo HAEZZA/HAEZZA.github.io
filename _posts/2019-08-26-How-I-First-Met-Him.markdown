@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "How I First Met Him"
+title: "그렇게 우리는 처음 만났다"
+cover: "How I First Met Him"
 date: 2019-08-26 15:00:00 +0900
 description: 그렇게 우리는 처음 만났다 # Add post description (optional)
 img: 2019-08-26-Varanasi-Dock.jpg # Add image post (optional)

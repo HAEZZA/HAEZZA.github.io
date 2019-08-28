@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Taste Of Laos"
+title: "라오스의 맛"
+cover: "Taste Of Laos"
 date: 2019-08-18 14:00:00 +0900
 description: 라오스의 맛 # Add post description (optional)
 img: 2019-08-17-ganesha.jpg # Add image post (optional)

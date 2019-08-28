@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Starting From Vientian Laos"
+title: "모험의 서막"
+cover: "Starting From Vientian Laos"
 date: 2019-08-08 10:00:00 +0900
 description: 모험의 서막 # Add post description (optional)
 img: 2013-03-14-start.JPG # Add image post (optional)

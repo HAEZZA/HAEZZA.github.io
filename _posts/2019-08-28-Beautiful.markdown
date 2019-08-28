@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Beautiful?"
+title: "아름다움 이란?"
+cover: "Beautiful?"
 date: 2019-08-28 11:00:00 +0900
 description: Beautiful? # Add post description (optional)
 img: 2019-08-28-Jeju-Babo-Cafe.jpg # Add image post (optional)

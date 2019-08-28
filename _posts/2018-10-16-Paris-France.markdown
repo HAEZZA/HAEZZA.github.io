@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Paris, France"
+title: "프랑스 파리에 가다"
+cover: "Paris, France"
 date: 2018-10-16 22:59:00 +0900
 description: 프랑스 파리에 가다 # Add post description (optional)
 img: 2016-09-13-eiffel-tower.JPG # Add image post (optional)

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "KhopCha LaLa"
+title: "껍짜 라라"
+cover: "KhopCha LaLa"
 date: 2019-08-22 11:00:00 +0900
 description: 껍짜 라라 # Add post description (optional)
 img: 2019-08-22-ship.jpg # Add image post (optional)

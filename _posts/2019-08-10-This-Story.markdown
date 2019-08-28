@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "This Story is . . ."
+title: "이 이야기는. . ."
+cover: "This Story is . . ."
 date: 2019-08-09 10:00:00 +0900
 description: 이 이야기는 # Add post description (optional)
 img: 2013-03-14-tajmahal.jpg # Add image post (optional)

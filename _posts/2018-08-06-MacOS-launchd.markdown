@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "MacOS launchd"
+title: "맥 OS launchd 사용기"
+cover: "MacOS launchd" 
 date: 2018-08-06 23:44:00 +0900
 description: stock bot을 돌리고 싶다 # Add post description (optional)
 img: 2018-08-06.JPG # Add image post (optional)

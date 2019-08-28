@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "To Packse"
+title: "가자 라오스 빡세로"
+cover: "To Packse"
 date: 2019-08-17 14:00:00 +0900
 description: 가자 빡세로 # Add post description (optional)
 img: 2019-08-17-sign.png # Add image post (optional)

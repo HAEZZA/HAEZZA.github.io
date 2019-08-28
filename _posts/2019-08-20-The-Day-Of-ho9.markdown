@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Day Of Ho9"
+title: "호구의 하루"
+cover: "The Day Of Ho9"
 date: 2019-08-20 15:20:00 +0900
 description: 호구의 하루 # Add post description (optional)
 img: 2019-08-20-mistery.jpg # Add image post (optional)
