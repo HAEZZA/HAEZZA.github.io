@@ -45,6 +45,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-17-tammakhung.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-17-tammakhung.jpg" alt="땀막훙" style="width: 100%; height: auto;">   
         <p>땀막훙 [출처: https://ko.wikipedia.org/wiki/솜_땀]</p>
 </div>

@@ -45,6 +45,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-20-ho9.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-20-ho9.jpg" alt="네팔 카트만두에서 만난 원숭이" style="width: 100%; height: auto;">   
         <p>네팔 카트만두에서 만난 원숭이</p>
 </div>

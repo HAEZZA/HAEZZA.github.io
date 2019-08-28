@@ -50,6 +50,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-21-tangdong.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-21-tangdong.jpg" alt="라오스 빡세 밤거리 산책중에 마주친 결혼식" style="width: 100%; height: auto;">   
         <p>라오스 빡세 밤거리 산책중에 마주친 결혼식</p>
 </div>

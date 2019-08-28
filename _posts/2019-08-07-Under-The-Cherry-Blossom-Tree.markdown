@@ -42,6 +42,6 @@ author: DUBUHOLIC # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-07-cherry-blossome.jpg" style="width: 50%; height: auto;">   
+        <img src="/assets/img/2019-08-07-cherry-blossome.jpg" alt="제주 한라수목원 초입" style="width: 50%; height: auto;">   
         <p>제주 한라수목원 초입</p>
 </div>

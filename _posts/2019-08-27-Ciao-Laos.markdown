@@ -40,6 +40,6 @@ author: dubuholic # Add name author (optional)
 <p class="page-quote">Ciao Mekong! Ciao Laos!</p>
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-27-Donkhon.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-27-Donkhon.jpg" alt="뱃머리에 앉아서 돈콘 빠져나가는 길" style="width: 100%; height: auto;">   
         <p>뱃머리에 앉아서 돈콘 빠져나가는 길</p>
 </div>

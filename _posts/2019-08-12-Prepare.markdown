@@ -41,6 +41,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2013-03-14-cochin.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2013-03-14-cochin.jpg" alt="인도 코친의 노을지는 바닷가" style="width: 100%; height: auto;">   
         <p>인도 코친의 노을지는 바닷가</p>
 </div>

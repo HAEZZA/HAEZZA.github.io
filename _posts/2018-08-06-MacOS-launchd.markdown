@@ -73,6 +73,6 @@ tail -f /var/log/system.log
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2018-08-06.JPG" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2018-08-06.JPG" alt="제주 함덕 호랑이 바&펍 딱새우 파스타" style="width: 100%; height: auto;">   
         <p>제주 함덕 [호랑이 바&펍] 딱새우 파스타</p>
 </div>

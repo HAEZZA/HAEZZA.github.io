@@ -32,6 +32,6 @@ author: dubuholic # Add name author (optional)
 '넌 상식이 없구나!'라고 하는 건 정말 주관적인 것임을..   
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-25-Wating.JPEG" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-25-Wating.JPEG" alt="라오스 돈콘에서 돌고래를 기다리는 사람들" style="width: 100%; height: auto;">   
         <p>돌고래를 기다리는 사람들</p>
 </div>

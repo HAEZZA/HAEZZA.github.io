@@ -39,6 +39,6 @@ author: dubuholic # Add name author (optional)
  
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-25-DonKhon.JPEG" style="width: 100%; height: auto;">   
-        <p>돈콘 폭포 가는 길</p>
+        <img src="/assets/img/2019-08-25-DonKhon.JPEG" alt="라오스 돈콘 폭포 가는 길" style="width: 100%; height: auto;">   
+        <p>라오스 돈콘 폭포 가는 길</p>
 </div>

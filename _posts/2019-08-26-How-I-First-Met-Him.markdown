@@ -67,6 +67,6 @@ author: dubuholic # Add name author (optional)
 <p class="page-quote">그렇게 우리는 처음 만났다.</p>    
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-26-Lumbini.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-26-Lumbini.jpg" alt="네팔 룸비니 보리수 나무를 보고 숙소로 돌아가는 길" style="width: 100%; height: auto;">   
         <p>네팔 룸비니 보리수 나무를 보고 숙소로 돌아가는 길</p>
 </div>

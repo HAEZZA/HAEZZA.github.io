@@ -61,6 +61,6 @@ author: dubuholic # Add name author (optional)
 나는 지난 1년간 라오스에서 경상도 사투리스럽게 라오스 어를 하고 있었을 거란 생각이 들었고, 슬픈 미소를 지으며 맥주를 시원하게 들이켰다.
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-26-DonKhon-Waterfall.jpg" style="width: 100%; height: auto;">   
-        <p>돈콘 폭포</p>
+        <img src="/assets/img/2019-08-26-DonKhon-Waterfall.jpg" alt="라오스 돈콘 폭포" style="width: 100%; height: auto;">   
+        <p>라오스 돈콘 폭포</p>
 </div>

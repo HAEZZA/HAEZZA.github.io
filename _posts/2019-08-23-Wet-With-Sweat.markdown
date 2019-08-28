@@ -54,6 +54,6 @@ author: dubuholic # Add name author (optional)
 자전거를 대충 세워둔 후 그늘 아래에 주저앉았다.    
 
 <div class="page-last-image">
-	<img src="/assets/img/2019-08-23-bicycle.jpg" style="width: 100%; height: auto;">   
+	<img src="/assets/img/2019-08-23-bicycle.jpg" alt="자전거 타고 왓푸 가는 길" style="width: 100%; height: auto;">   
 	<p>자전거 타고 왓푸 가는 길</p>
 </div>

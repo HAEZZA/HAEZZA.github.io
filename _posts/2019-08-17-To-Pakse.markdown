@@ -47,6 +47,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-17-airplane.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-17-airplane.jpg" alt="네팔 카트만두로 가는 에어아시아 탑승을 기다리며" style="width: 100%; height: auto;">   
         <p>네팔 카트만두로 가는 에어아시아 탑승을 기다리며</p>
 </div>

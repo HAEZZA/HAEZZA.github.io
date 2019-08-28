@@ -45,6 +45,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-22-man-with-flowers.jpg" style="width: 100%; height: auto;">   
-        <p>룸비니의 꽃을 든 아이들</p>
+        <img src="/assets/img/2019-08-22-man-with-flowers.jpg" alt="네팔 룸비니의 꽃을 든 아이들" style="width: 100%; height: auto;">   
+        <p>네팔 룸비니의 꽃을 든 아이들</p>
 </div>

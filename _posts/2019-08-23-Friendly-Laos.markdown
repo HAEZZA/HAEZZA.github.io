@@ -42,6 +42,6 @@ author: dubuholic # Add name author (optional)
  
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-23-Street-Food.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-23-Street-Food.jpg" alt="인도 길거리 음식" style="width: 100%; height: auto;">   
         <p>인도 길거리 음식 [뭔지 모르지만 꿀맛]</p>
 </div>

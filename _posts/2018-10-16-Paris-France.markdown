@@ -43,6 +43,6 @@ author: dub # Add name author (optional)
 나는 그때의 추억을 되새김질..   
 
 <div class="page-last-image">
-	<img src="/assets/img/2016-09-12-etretat.JPG" style="width: 50%; height: auto;">
+	<img src="/assets/img/2016-09-12-etretat.JPG" alt="프랑스 에트르타 거리 방황중" style="width: 50%; height: auto;">
 	<p>프랑스 에트르타 거리 방황중</p>
 </div>

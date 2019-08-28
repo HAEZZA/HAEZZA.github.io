@@ -39,6 +39,6 @@ hiking tour를 위해 버스에 올랐더니 어제 sunset tour에서 만났던 
 
 
 <div class="page-last-image">
-	<img src="/assets/img/2017-04-30_meteora1.JPG" style="width: 100%; height: auto;">   
+	<img src="/assets/img/2017-04-30_meteora1.JPG" alt="그리스 메테오라에서 하이킹 투어중" style="width: 100%; height: auto;">   
 	<p>그리스 메테오라에서 하이킹 투어중</p>
 </div>

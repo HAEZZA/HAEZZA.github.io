@@ -49,6 +49,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-19-mekong.jpg" style="width: 100%; height: auto;">   
-        <p>돈콘에서 본 메콩강</p>
+        <img src="/assets/img/2019-08-19-mekong.jpg" alt="라오스 돈콘에서 본 메콩강" style="width: 100%; height: auto;">   
+        <p>라오스 돈콘에서 본 메콩강</p>
 </div>

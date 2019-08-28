@@ -26,6 +26,6 @@ author: dubuholic # Add name author (optional)
 그때는 별게 아니었지만, 지금 생각하면 등골이 서늘한 신밧드아닌 두부홀릭의 모험.  
 
 <div class="page-last-image">
-        <img src="/assets/img/2013-03-14-lumbini.JPG" style="width: 50%; height: auto;">   
-        <p>룸비니의 승려들</p>
+        <img src="/assets/img/2013-03-14-lumbini.JPG" alt="네팔 룸비니의 승려들" style="width: 50%; height: auto;">   
+        <p>네팔 룸비니의 승려들</p>
 </div>

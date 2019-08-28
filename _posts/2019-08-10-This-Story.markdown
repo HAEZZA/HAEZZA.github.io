@@ -36,6 +36,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2013-03-14-map.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2013-03-14-map.jpg" alt="여행 경로" style="width: 100%; height: auto;">   
         <p>이동 경로</p>
 </div>

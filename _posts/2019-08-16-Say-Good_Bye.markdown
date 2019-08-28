@@ -55,6 +55,6 @@ author: dubuholic # Add name author (optional)
 
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-16.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-16.jpg" alt="네팔 카트만두 골목길" style="width: 100%; height: auto;">   
         <p>네팔 카트만두 골목길</p>
 </div>

@@ -33,6 +33,6 @@ author: dubuholic # Add name author (optional)
 재간둥이 아저씨 같으니라구.
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-08-28-Laos-Immigration.jpg" style="width: 100%; height: auto;">   
+        <img src="/assets/img/2019-08-28-Laos-Immigration.jpg" alt="라오스에서 캄보디아 국경 넘는 중" style="width: 100%; height: auto;">   
         <p>라오스에서 캄보디아 국경 넘는 중</p>
 </div>
