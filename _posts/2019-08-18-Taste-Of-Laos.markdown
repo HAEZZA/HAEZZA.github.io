@@ -11,7 +11,7 @@ author: dubuholic # Add name author (optional)
 ---
 
 
-[2013-03-17] 
+[2013-03-16] 
 
  라오스 음식은 대체로 내 입맛에 맞았다. 고수를 넣지 않는다면. 
 > <span style="color:#006733">1년이나 라오스에 있었지만 고수는 잘 먹지 못한다. 내 취향이 아니다.</span>   

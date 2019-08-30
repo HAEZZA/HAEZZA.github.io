@@ -11,7 +11,7 @@ author: dubuholic # Add name author (optional)
 ---
 
 
-[2013-03-18] 
+[2013-03-17] 
 
 스쿠터를 빌리러 들어간 가게의 사장님은 중국분이신 듯했다.  
 

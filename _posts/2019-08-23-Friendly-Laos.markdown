@@ -11,7 +11,7 @@ author: dubuholic # Add name author (optional)
 ---
 
 
-[2013-03-18] 
+[2013-03-17] 
 
 그늘 아래에서 지나가는 사람을 멀뚱멀뚱 쳐다보며 한참을 쉬었다. 
 
