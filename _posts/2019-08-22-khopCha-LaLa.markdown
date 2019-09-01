@@ -11,7 +11,7 @@ author: dubuholic # Add name author (optional)
 ---
 
 
-[2013-03-18] 
+[2013-03-17] 
 
 자고 일어났더니 짧게 자른 머리와 염색으로 빨개진 상한 머리가 파슬파슬 파슬리![파슬리]({{site.baseurl}}/assets/img/parsley.jpg "출처: pixabay.com"){: width="3%" height="3%"}다. 
 거울을 보자 주먹으로 거울을 내려치고 싶은 충동이 들었으나, 내 손은 소중하니 관두기로 했다. 그리고 긴 머리일 때도 예쁘진 않았다며 셀프 위로했다. 근데 왜 눈물이 나지.

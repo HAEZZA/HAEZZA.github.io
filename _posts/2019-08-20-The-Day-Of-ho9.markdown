@@ -11,7 +11,7 @@ author: dubuholic # Add name author (optional)
 ---
 
 
-[2013-03-17] 
+[2013-03-16] 
 
 뚝뚝 아저씨와 Day-Tour를 마쳤는데 아직도 날이 환하다. 80,000낍.. 사기를 당한 것 같다.  
 

@@ -11,7 +11,7 @@ author: dubuholic # Add name author (optional)
 ---
 
 
-[2013-03-17] 
+[2013-03-16] 
 
 짧아진 머리칼을 억지로 묶은 후 방을 나가 숙소 로비에서 뒹굴뒹굴했다.
 
