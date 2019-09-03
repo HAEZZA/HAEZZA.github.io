@@ -46,7 +46,7 @@ author: dubuholic # Add name author (optional)
 
 갑자기 커플의 얼굴이 환해지면서 좋아했다. 난 돈 안내고 공연장까지 차를 타고 와서 좋고, 그분들은 지금부터라도 둘이서 오붓한 여행을 즐길 수 있어서 좋고. 
 
-<p class="page-quote">"좋고 좋고!"</p>
+<p class="page-quote">좋고 좋고!</p>
 
 <div class="page-last-image">
         <img src="/assets/img/2019-09-03-Folk-Village.jpg" alt="캄보디아 씨엠립 민속촌 입구" style="width: 100%; height: auto;">   
