@@ -48,7 +48,7 @@ author: dubuholic # Add name author (optional)
 
 인도 타지마할에서 굳이 굳이 타지마할 도장을 찍기 위해 급히 쓴 내 엽서는 결국 또 공중분해되었다 ㅠ_ㅠ    
 
-사진이라도 찍어둘 걸 그랬어요.     
+사진이라도 찍어둘 걸 그랬어요. 미래의 나에게 무슨 말을 하려고 했던 걸까.    
 
 <div class="page-last-image">
         <img src="/assets/img/2019-09-02-Postcards.jpg" alt="캄보디아 씨엠립 공항에서 보내는 엽서" style="width: 100%; height: auto;">   
