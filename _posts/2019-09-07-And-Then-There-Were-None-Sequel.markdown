@@ -4,7 +4,7 @@ title: "그리고 아무도 없었다 후속편"
 cover: "And Then There Were None Sequel"
 date: 2019-09-07 11:00:00 +0900
 description: 그리고 아무도 없었다 후속편 # Add post description (optional)
-img: 2019-09-01-Golden-Fish.JPEG # Add image post (optional)
+img: 2019-09-07-Jeju.jpg # Add image post (optional)
 tags: [Trip, Laos, Cambodia, Siem Reap]
 categories: trip
 author: dubuholic # Add name author (optional)
@@ -47,6 +47,6 @@ author: dubuholic # Add name author (optional)
 결국 한 숨도 잘 수 없었다.    
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-09-01-Way-Back-From-Work.JPEG" alt="판교 퇴근길, 신호를 기다리는 양양이" style="width: 100%; height: auto;">   
-        <p>판교 퇴근길, 신호를 기다리는 양양이</p>
+        <img src="/assets/img/2019-09-07-Moogerburger.jpg" alt="제주 무거 버거" style="width: 100%; height: auto;">   
+        <p>제주 무거 버거</p>
 </div>
