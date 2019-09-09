@@ -1,14 +1,14 @@
 title: dubuholic's blog
 email: haezinny@gmail.com
-description: 집사가 여행하고 공부하고 소설쓰는 소소한 일상 이야기 # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
 permalink: ':categories/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dubuholic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://dubuholic.github.io" # the base hostname & protocol 
 
 # Author settings
 author: dubuholic # add your name
 author-pic: dubuholic.png
-about-author: I am dubuholic!
+about-author: 두부주인님을 모시는 집사의 소소한 일상 이야기
 
 # Contact links
 email: haezinny@gmail.com # Add your Email address
