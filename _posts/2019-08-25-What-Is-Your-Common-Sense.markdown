@@ -3,8 +3,8 @@ layout: post
 title: "당신의 상식은... ?"
 cover: "What Is Your Common Sense?"
 date: 2019-08-25 22:00:00 +0900
-description: 당신의 상식은... ? # Add post description (optional)
-img: 2019-08-25-Mekong.JPEG # Add image post (optional)
+description: 흔히 하는 착각은 내가 알고 있는 것을 상대방도 알고 있을거라 굳게 믿는 것이다. 그리곤 이건 상식인데 이걸 왜 몰라 라고 하며 상대방을 무시한다. 세상엔 정말 다양한 것들이 존재하고 사람마다 관심사가 다르기 때문에 내 상식이 다른 사람에게도 상식이라 여기는건 무리수다.
+img: 2019-08-25-Mekong.JPEG 
 tags: [Trip, Laos, Donkhon]
 categories: trip
 author: dubuholic # Add name author (optional)

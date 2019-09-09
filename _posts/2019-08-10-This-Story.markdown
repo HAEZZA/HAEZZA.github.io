@@ -3,11 +3,11 @@ layout: post
 title: "이 이야기는. . ."
 cover: "This Story is . . ."
 date: 2019-08-09 10:00:00 +0900
-description: 이 이야기는 # Add post description (optional)
-img: 2013-03-14-tajmahal.jpg # Add image post (optional)
+description: 이 이야기는 라오스에서 최초로 시작되어 한 달 동안 라오스, 캄보디아, 말레이시아, 네팔, 인도를 돌며 벌어지는 이야기로 읽는 사람에게 행운을 줄 예정이며 지금 당신은 이 이야기에 홀릭.(행운의 편지 따라하기)
+img: 2013-03-14-tajmahal.jpg
 tags: [Trip, Laos, Vientian]
 categories: trip
-author: dubuholic # Add name author (optional)
+author: dubuholic 
 ---
 
 

@@ -3,8 +3,8 @@ layout: post
 title: "아름다움 이란?"
 cover: "Beautiful?"
 date: 2019-08-28 11:00:00 +0900
-description: Beautiful? # Add post description (optional)
-img: 2019-08-28-Jeju-Babo-Cafe.jpg # Add image post (optional)
+description: 미의 기준은 시대에 따라 공간에 따라 조금씩 다르다. 유행과 같다. 내가 이 유행에 휩쓸린 필요는 없다. 
+img: 2019-08-28-Jeju-Babo-Cafe.jpg 
 tags: [Trip, Laos, Cambodia]
 categories: trip
 author: dubuholic # Add name author (optional)

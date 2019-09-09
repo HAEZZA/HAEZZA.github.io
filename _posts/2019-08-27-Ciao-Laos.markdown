@@ -3,7 +3,7 @@ layout: post
 title: "안녕 라오스"
 cover: "Ciao Laos"
 date: 2019-08-27 11:00:00 +0900
-description: 안녕 라오스 # Add post description (optional)
+description: 1년 동안의 인턴생활과 마지막 여행 후 결국 라오스를 떠났다. 안녕 메콩강. 안녕 라오스.# Add post description (optional)
 img: 2019-08-27-KL.jpg # Add image post (optional)
 tags: [Trip, Laos, Donkhon]
 categories: trip

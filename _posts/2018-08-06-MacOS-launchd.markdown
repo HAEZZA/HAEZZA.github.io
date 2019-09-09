@@ -3,11 +3,11 @@ layout: post
 title: "맥 OS launchd 사용기"
 cover: "MacOS launchd" 
 date: 2018-08-06 23:44:00 +0900
-description: stock bot을 돌리고 싶다 # Add post description (optional)
-img: 2018-08-06.JPG # Add image post (optional)
+description: stock bot을 돌리고 싶다 
+img: 2018-08-06.JPG 
 tags: [Study, MacOS, launchd]
 categories: study
-author: DUBUHOLIC # Add name author (optional)
+author: DUBUHOLIC 
 ---
 
 텔레그램 봇에 특정 주식의 주가 정보를 open, close 시간에만 받아 보고 싶어서 python으로 하나 작성했는데..   

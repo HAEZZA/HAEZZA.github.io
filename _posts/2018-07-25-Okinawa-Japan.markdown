@@ -3,11 +3,11 @@ layout: post
 title: "일본 오키나와 워크샵"
 cover: "Okinawa, Japan" 
 date: 2018-07-25 12:33:00 +0900
-description: 오키나와 워크샵 # Add post description (optional)
-img: 2018-03-08_Churaumi.JPG # Add image post (optional)
+description: 오키나와 워크샵 
+img: 2018-03-08_Churaumi.JPG 
 tags: [Trip, Japan, Okinawa]
 categories: trip
-author: DUBUHOLIC # Add name author (optional)
+author: DUBUHOLIC 
 ---
 
 

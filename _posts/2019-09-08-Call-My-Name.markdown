@@ -3,11 +3,11 @@ layout: post
 title: "내 이름을 불러줘"
 cover: "Call My Name"
 date: 2019-09-08 11:00:00 +0900
-description: 이상하게 내 이름은 잘 들린단 말이야 # Add post description (optional)
-img: 2019-09-08-Flower.jpg # Add image post (optional)
+description: 어디서든이 어떤상황에서든지 이상하게 내 이름은 잘 들린다. 캄보디아 씨엠립 공항에서 비행기 타기.
+img: 2019-09-08-Flower.jpg 
 tags: [Trip, Laos, Cambodia, Siem Reap]
 categories: trip
-author: dubuholic # Add name author (optional)
+author: dubuholic 
 ---
 
 

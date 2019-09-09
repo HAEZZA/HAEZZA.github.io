@@ -3,11 +3,11 @@ layout: post
 title: "그리고 아무도 없었다."
 cover: "And Then There Were None"
 date: 2019-09-01 11:00:00 +0900
-description: 그리고 아무도 없었다. # Add post description (optional)
-img: 2019-09-01-Golden-Fish.JPEG # Add image post (optional)
+description: 그리고 아무도 없었다. 갇힌 열 사람은 모두 죽고 한 사람도 살아 남지 못한다. 인디언 섬에는 이들 열 명 외엔 아무도 없다. 를 패러디한 그리고 아무도 잘 수 없었다.
+img: 2019-09-01-Golden-Fish.JPEG 
 tags: [Trip, Laos, Cambodia, Siem Reap]
 categories: trip
-author: dubuholic # Add name author (optional)
+author: dubuholic 
 ---
 
 

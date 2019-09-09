@@ -3,11 +3,11 @@ layout: post
 title: "좋고 좋고"
 cover: "Happy Together"
 date: 2019-09-03 14:00:00 +0900
-description: 좋고 좋고 # Add post description (optional)
-img: 2019-09-03-Jeju-Akoharu.jpg # Add image post (optional)
+description: 뚝뚝 아저씨를 다시 만나 민속촌으로 향했다. 민속촌에 도착한 나는 뚝뚝아저씨와 5시에 앞에서 만나기로 하고 들어갔다. 
+img: 2019-09-03-Jeju-Akoharu.jpg 
 tags: [Trip, Laos, Cambodia, Siem Reap]
 categories: trip
-author: dubuholic # Add name author (optional)
+author: dubuholic 
 ---
 
 

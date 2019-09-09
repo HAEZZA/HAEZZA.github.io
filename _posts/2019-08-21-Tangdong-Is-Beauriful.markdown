@@ -3,8 +3,8 @@ layout: post
 title: "라오스의 결혼식"
 cover: "Tangdong Is Beautiful"
 date: 2019-08-21 10:00:00 +0900
-description: 땡동은 즐거워 # Add post description (optional)
-img: 2019-08-21-candle.jpg # Add image post (optional)
+description: 라오스의 결혼식은 성대하다.  한국과 비슷한 점은 축의금이 있다는 것이다. 결혼식 초대장(청첩장)은 보통 만나서 전해준다. 그러면 그 청첩장 봉투에 축의금을 담아서 들고 간다. 결혼식이 진행되면 신랑 신부가 박스나 항아리 같은 것을 들고 돌아다니며 하객들에게 인사를 한다.
+img: 2019-08-21-candle.jpg
 tags: [Trip, Laos, Pakse]
 categories: trip
 author: dubuholic # Add name author (optional)

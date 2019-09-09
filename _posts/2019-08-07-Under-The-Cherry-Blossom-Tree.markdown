@@ -3,11 +3,11 @@ layout: post
 title: "벚나무 아래에서..."
 cover: "Under The Cherry Blossom Tree"
 date: 2019-08-07 14:45:00 +0900
-description: 벚나무 아래에서... # Add post description (optional)
-img: 2019-08-07-cherry-blossome2.JPG # Add image post (optional)
+description: 인간은 언제쯤 자유로워 질 수 있는 걸까. 출근, 야근, 마감, 연차 그리고 월급.
+img: 2019-08-07-cherry-blossome2.JPG 
 tags: [Daily, Korea, Pangyo]
 categories: daily
-author: DUBUHOLIC # Add name author (optional)
+author: DUBUHOLIC 
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "세계는 하나"
+title: "We Are The World"
 cover: "We Are The World"
 date: 2019-08-26 11:00:00 +0900
-description: We Are The World # Add post description (optional)
+description:  라오스 돈콘 골목길에서 마주친 그 일본인은 나를 일본인이라 생각했는지 다짜고짜 일본어로 물어왔다. # Add post description (optional)
 img: 2019-08-26-Varanasi.jpg # Add image post (optional)
 tags: [Trip, Laos, Donkhon]
 categories: trip

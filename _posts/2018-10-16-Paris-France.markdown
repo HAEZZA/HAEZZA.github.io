@@ -3,11 +3,11 @@ layout: post
 title: "프랑스 파리에 가다"
 cover: "Paris, France"
 date: 2018-10-16 22:59:00 +0900
-description: 프랑스 파리에 가다 # Add post description (optional)
-img: 2016-09-13-eiffel-tower.JPG # Add image post (optional)
+description: 인종차별이 심하다는 프랑스에 갔다. 퇴근길 지하철엔 낭만이 흘렀고 길을 잃고 헤메는 어린양의 서툰 영어에도 친절히 길을 알려주셨으며 루브르에 서서 멍하니 있으니 다가와 영어로 말도 걸었다. 
+img: 2016-09-13-eiffel-tower.JPG 
 tags: [Trip, France, Paris]
 categories: trip
-author: dub # Add name author (optional)
+author: dubuholic
 ---
 
 [2016-09-09] - [2016-09-17]
