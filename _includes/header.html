@@ -12,13 +12,13 @@
             <div class="archive-group">
               {% capture category_name %}{{ category | first }}{% endcapture %}
               <div id="#{{ category_name | slugize }}"></div>
-              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a>
+              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}[{{ site.categories[category_name].size }}]</a>
 				<dl>
 				<!--{%- if category_name == "trip" -%}-->
-					<dt><a href="{{site.baseurl}}/{{category_name}}/france">France({{ site.tags[France].size }})</a></dt>
-					<dt><a href="{{site.baseurl}}/{{category_name}}/greece">Greece({{ site.tags[Greece].size }})</a></dt>
-					<dt><a href="{{site.baseurl}}/{{category_name}}/japan">Japan({{ site.tags[Japan].size }})</a></dt>
-					<dt><a href="{{site.baseurl}}/{{category_name}}/laos">Laos Series({{ site.tags[Laos].size }})</a></dt>
+					<dt><a href="{{site.baseurl}}/{{category_name}}/france">France[{{ site.tags["France"].size }}]</a></dt>
+					<dt><a href="{{site.baseurl}}/{{category_name}}/greece">Greece[{{ site.tags["Greece"].size }}]</a></dt>
+					<dt><a href="{{site.baseurl}}/{{category_name}}/japan">Japan[{{ site.tags["Japan"].size }}]</a></dt>
+					<dt><a href="{{site.baseurl}}/{{category_name}}/laos">Laos Series[{{ site.tags"[Laos"].size }}]</a></dt>
 				<!--{%- endif -%}-->
 				</dl>
 			  </li>
