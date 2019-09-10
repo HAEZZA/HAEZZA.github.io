@@ -808,7 +808,9 @@ pre {
             .main-nav ul li ul li a:hover {
               opacity: .8;
               color: #311e3e; }
-      .main-nav ul li:hover {
+      .main-nav ul li:hover ul {
+        display: block; }
+      .main-nav ul li:focus ul {
         display: block; }
 
 .menu-icon-container {
