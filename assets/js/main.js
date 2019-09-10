@@ -15,7 +15,7 @@ $(function () {
   // Click menu
   $('.active-element').on({
 	  'touchstart' : function () {
-			$(this).addClass('fake-active');
+			$(this).addClass('active');
 	  }
   })
 
