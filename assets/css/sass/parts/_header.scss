@@ -51,7 +51,7 @@
           opacity: .8;
           color: $dark-pink;
         }
-      }      
+      }
 
       dl {
         padding: 0 80px 0;
@@ -75,9 +75,9 @@
               color: $dark-purple;
             }
 	        }
-	      }    
+	      }
       }
-      &:hover dl {
+      &:active dl {
         display:block;
       }
     }
