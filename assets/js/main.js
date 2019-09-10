@@ -14,7 +14,7 @@ $(function () {
 
   // Menu Ul Settings
   $('.menu-main li').click(function (e) {
-    $('.manu-sub ul').slideToggle('fast')
+    $('.manu-sub ul').toggleClass('active')
   })
 
   // Click menu
