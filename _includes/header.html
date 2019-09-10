@@ -11,8 +11,13 @@
           {%- for category in site.categories -%}
             <div class="archive-group">
               {% capture category_name %}{{ category | first }}{% endcapture %}
-              <div id="#{{ category_name | slugize }}"></div>
-              <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} [{{ site.categories[category_name].size }}]</a>
+              <div id="#{{ category_name | slugize }}"></div>			  
+              <li>
+			  {%- if category_name != "trip" -%}
+			  <a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} [{{ site.categories[category_name].size }}]</a>
+			  {%- else -%}
+			  {{ category_name }} [{{ site.categories[category_name].size }}]
+			  {%- endif -%}
 					<ul class="menu-sub">
 					{%- if category_name == "trip" -%}
 						<li><a href="{{site.baseurl}}/{{category_name}}/france">France [{{ site.tags["France"].size }}]</a></li>
