@@ -11,5 +11,12 @@
     fuzzy: false,
     exclude: ['Welcome']
   });
+
+  $(document).ready(function() {
+	  $("#main-nav ul.sub").hide();
+	  $("#main-nav ul.menu li").click(function() {
+		  $("ul",this).slideToggle("fast");
+	  });
+  });
 </script>
 <script src="{{site.baseurl}}/assets/js/main.js"></script>

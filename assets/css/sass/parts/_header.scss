@@ -53,15 +53,15 @@
         }
       }
 
-      dl {
+      ul {
         padding: 0 80px 0;
         margin: -70px 0;
         list-style: none;
-      	display:none;
+      	display:block;
       	height:auto;
       	z-index:200;
       	position:absolute;
-        dt {
+        li {
 	  border-top: 1px solid $lighten-gray;
           a {
             background-color: $white;
@@ -78,12 +78,6 @@
 	      }
       }
       &:hover dl {
-        display:block;
-      }
-      &:active dl {
-        display:block;
-      }
-      &:visited dl {
         display:block;
       }
     }

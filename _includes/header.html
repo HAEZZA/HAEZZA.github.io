@@ -6,23 +6,21 @@
       </div>
       <nav class="main-nav">
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
-        <ul>
+        <ul class="menu">
           <div id="archives">
           {%- for category in site.categories -%}
             <div class="archive-group">
               {% capture category_name %}{{ category | first }}{% endcapture %}
               <div id="#{{ category_name | slugize }}"></div>
               <li><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} [{{ site.categories[category_name].size }}]</a>
-				<div class="active-element">
-					<dl>
+					<ul class="sub">
 					{%- if category_name == "trip" -%}
-						<dt><a href="{{site.baseurl}}/{{category_name}}/france">France [{{ site.tags["France"].size }}]</a></dt>
-						<dt><a href="{{site.baseurl}}/{{category_name}}/greece">Greece [{{ site.tags["Greece"].size }}]</a></dt>
-						<dt><a href="{{site.baseurl}}/{{category_name}}/japan">Japan [{{ site.tags["Japan"].size }}]</a></dt>
-						<dt><a href="{{site.baseurl}}/{{category_name}}/laos">Laos Series [{{ site.tags["Laos"].size }}]</a></dt>
+						<li><a href="{{site.baseurl}}/{{category_name}}/france">France [{{ site.tags["France"].size }}]</a></li>
+						<li><a href="{{site.baseurl}}/{{category_name}}/greece">Greece [{{ site.tags["Greece"].size }}]</a></li>
+						<li><a href="{{site.baseurl}}/{{category_name}}/japan">Japan [{{ site.tags["Japan"].size }}]</a></li>
+						<li><a href="{{site.baseurl}}/{{category_name}}/laos">Laos Series [{{ site.tags["Laos"].size }}]</a></li>
 					{%- endif -%}
-					</dl>
-				</div>
+					</ul>
 			  </li>
             </div>
           {%- endfor -%}

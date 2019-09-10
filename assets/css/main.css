@@ -788,31 +788,27 @@ pre {
         .main-nav ul li a:hover {
           opacity: .8;
           color: #87314e; }
-      .main-nav ul li dl {
+      .main-nav ul li ul {
         padding: 0 80px 0;
         margin: -70px 0;
         list-style: none;
-        display: none;
+        display: block;
         height: auto;
         z-index: 200;
         position: absolute; }
-        .main-nav ul li dl dt {
+        .main-nav ul li ul li {
           border-top: 1px solid #d9d9d9; }
-          .main-nav ul li dl dt a {
+          .main-nav ul li ul li a {
             background-color: #fff;
             padding: 0px 0;
             text-decoration: none;
             font-weight: 400;
             font-size: 14px;
             color: #87314e; }
-            .main-nav ul li dl dt a:hover {
+            .main-nav ul li ul li a:hover {
               opacity: .8;
               color: #311e3e; }
       .main-nav ul li:hover dl {
-        display: block; }
-      .main-nav ul li:active dl {
-        display: block; }
-      .main-nav ul li:visited dl {
         display: block; }
 
 .menu-icon-container {
