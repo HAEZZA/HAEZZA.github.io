@@ -812,6 +812,8 @@ pre {
         display: block; }
       .main-nav ul li:active dl {
         display: block; }
+      .main-nav ul li:visited dl {
+        display: block; }
 
 .menu-icon-container {
   width: 25%;

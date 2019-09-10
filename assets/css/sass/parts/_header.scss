@@ -83,6 +83,9 @@
       &:active dl {
         display:block;
       }
+      &:visited dl {
+        display:block;
+      }
     }
   }
 }
