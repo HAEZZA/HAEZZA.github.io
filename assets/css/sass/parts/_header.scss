@@ -80,8 +80,8 @@
       &:hover dl {
         display:block;
       }
-      &:active dl {
-        display:block;
+      &:focus dl {
+        display:none !important;
       }
     }
   }

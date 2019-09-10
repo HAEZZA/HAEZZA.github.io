@@ -810,8 +810,8 @@ pre {
               color: #311e3e; }
       .main-nav ul li:hover dl {
         display: block; }
-      .main-nav ul li:active dl {
-        display: block; }
+      .main-nav ul li:focus dl {
+        display: none !important; }
 
 .menu-icon-container {
   width: 25%;
