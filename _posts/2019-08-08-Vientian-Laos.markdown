@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "모험의 서막"
-cover: "Starting From Vientian Laos"
+title: "#1 모험의 서막"
+cover: "#1 Starting From Vientian Laos"
 date: 2019-08-08 10:00:00 +0900
 description: 신은 실제로 존재할지도 모른다. 아무 생각 없이 계획 없이 무작정 비행기만 끊어서 출발한 여행이었다. 그 모든 날들 동안 날 지켜준 신은 정말 존재할지도 모른다.
 img: 2013-03-14-start.JPG 
