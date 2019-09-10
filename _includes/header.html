@@ -6,7 +6,7 @@
       </div>
       <nav class="main-nav">
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
-        <ul>
+        <ul class="menu-main">
           <div id="archives">
           {%- for category in site.categories -%}
             <div class="archive-group">
@@ -18,7 +18,7 @@
 			  {%- else -%}
 			  <a> {{ category_name }} [{{ site.categories[category_name].size }}]</a>
 			  {%- endif -%}
-					<ul>
+					<ul class="menu-sub">
 					{%- if category_name == "trip" -%}
 						<li><a href="{{site.baseurl}}/{{category_name}}/france">France [{{ site.tags["France"].size }}]</a></li>
 						<li><a href="{{site.baseurl}}/{{category_name}}/greece">Greece [{{ site.tags["Greece"].size }}]</a></li>

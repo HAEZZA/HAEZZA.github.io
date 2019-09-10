@@ -12,6 +12,11 @@ $(function () {
     flexContainer.toggleClass('active')
   })
 
+  // Menu Ul Settings
+  $('.menu-main li').click(function (e) {
+    $('.manu-sub ul').slideToggle('fast')
+  })
+
   // Click menu
   $('.active-element').on({
 	  'touchstart' : function () {
