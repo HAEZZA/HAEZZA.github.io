@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "원나잇"
-cover: "One Night"
+title: "#13 원나잇"
+cover: "#13 One Night"
 date: 2019-08-24 17:00:00 +0900
 description: 아저씨는 라오스어와 영어를 묘하게 섞어서 말했다.
 img: 2019-08-24-Lassi.JPEG 

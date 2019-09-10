@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "나는야 보헤미안"
-cover: "I Am  A Bohemian"
+title: "#7 나는야 보헤미안"
+cover: "#7 I Am  A Bohemian"
 date: 2019-08-19 19:00:00 +0900
 description: 발길이 가는 곳으로 걸어가고, 힘들면 쉬기도 하고, 빠르게 뛰어가기도, 바쁘게 움직이기도 했던 지난날의 보헤미안의 삶이 그립다.
 img: 2013-03-14-tuktuk.png 

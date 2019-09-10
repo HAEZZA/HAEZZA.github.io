@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "다음 생엔"
-cover: "In The Next Life"
+title: "#27 다음 생엔"
+cover: "#27 In The Next Life"
 date: 2019-09-05 15:00:00 +0900
 description: 다음 생이 있다면 뭐로 태어나면 좋을까. 역시나 고양이겠지?
 img: 2019-09-05-Punglimdabang.jpg 

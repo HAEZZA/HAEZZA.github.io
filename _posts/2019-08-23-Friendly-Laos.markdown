@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "친절한 라오스씨"
-cover: "Friendly Laos"
+title: "#11 친절한 라오스씨"
+cover: "#11 Friendly Laos"
 date: 2019-08-23 18:00:00 +0900
 description: 친절한 라오스 가족들 덕분에 왓푸에서 나올땐 자전거를 타지 않고 차로 10분 만에 숙소에 도착할 수 있었다. # Add post description (optional)
 img: 2019-08-23-Wat-Pu.jpg # Add image post (optional)

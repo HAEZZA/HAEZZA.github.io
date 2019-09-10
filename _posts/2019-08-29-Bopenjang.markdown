@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "보뺀냥"
-cover: "Bopenjang"
+title: "#20 보뺀냥"
+cover: "#20 Bopenjang"
 date: 2019-08-29 11:00:00 +0900
 description: 이제서야 알게되었다. 보뺀냥 보다 좋은 말도 없구나. 세상 모든일이 보뺀냥 하길. # Add post description (optional)
 img: 2019-08-29-flower.jpg # Add image post (optional)

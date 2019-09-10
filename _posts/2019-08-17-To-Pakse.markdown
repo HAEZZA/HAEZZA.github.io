@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "가자 라오스 빡세로"
-cover: "To Packse"
+title: "#5 가자 라오스 빡세로"
+cover: "#5 To Packse"
 date: 2019-08-17 14:00:00 +0900
 description: 12시간 동안 라오스 빡세로 이동하는 슬리핑 버스에서 생긴일. # Add post description (optional)
 img: 2019-08-17-sign.png # Add image post (optional)

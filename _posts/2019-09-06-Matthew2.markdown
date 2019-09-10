@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "매튜와 즐거운 쇼핑"
-cover: "Matthew2"
+title: "#28 매튜와 즐거운 쇼핑"
+cover: "#28 Matthew2"
 date: 2019-09-06 12:00:00 +0900
 description: 캄보디아 씨엠립 야시장에서의 쇼핑. 쇼핑은 역시 흥정이다. 흥정의 기술.
 img: 2019-09-06-Honfleur.jpg 

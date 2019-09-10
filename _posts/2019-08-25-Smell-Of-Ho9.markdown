@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "호구의 냄새가 난다"
-cover: "Smell Of Ho9"
+title: "#14 호구의 냄새가 난다"
+cover: "#14 Smell Of Ho9"
 date: 2019-08-25 18:00:00 +0900
 description: 라오스 돈콘으로 배를 타고 들어갔다. 거기서 또 다른 xx를 만나는데... # Add post description (optional)
 img: 2019-08-25-Dock-Of-Donkon.JPEG # Add image post (optional)

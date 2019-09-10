@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "껍짜 라라"
-cover: "KhopCha LaLa"
+title: "#10 껍짜 라라"
+cover: "#10 KhopCha LaLa"
 date: 2019-08-22 11:00:00 +0900
 description: 무식하면 용감해서 좋은 사람들을 많이 만나게 된다. 라오스 왓푸가는 길에 만난 좋은 사람들 이야기.
 img: 2019-08-22-ship.jpg 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "호구의 하루"
-cover: "The Day Of Ho9"
+title: "#8 호구의 하루"
+cover: "#8 The Day Of Ho9"
 date: 2019-08-20 15:20:00 +0900
 description: 호구 당하면 당시엔 기분이 별로지만 지나고 나면 미소짓게 하는 추억이 된다. 라오스 빡세에서 겪은 호구의 하루.
 img: 2019-08-20-mistery.jpg 

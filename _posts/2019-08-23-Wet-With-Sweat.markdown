@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "온몸이 축축"
-cover: "Wet With Sweat"
+title: "#12 온몸이 축축"
+cover: "#12 Wet With Sweat"
 date: 2019-08-23 13:00:00 +0900
 description: 라오스 빡세에서 왓푸로 향하는길에 자전거를 빌렸다. # Add post description (optional)
 img: 2019-08-23-bicycle-header.jpg # Add image post (optional)

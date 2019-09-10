@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "제니 언니"
-cover: "Jennie"
+title: "#21 제니 언니"
+cover: "#21 Jennie"
 date: 2019-08-29 11:00:00 +0900
 description: 캄보디아 씨엠립으로 가는 버스안에서 만난 제니 언니는 끊임없이 말을 이어갔다.
 img: 2019-08-30-Caribbean-Bay.jpg 

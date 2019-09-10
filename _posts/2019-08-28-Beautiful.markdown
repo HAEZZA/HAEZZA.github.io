@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "아름다움 이란?"
-cover: "Beautiful?"
+title: "#19 아름다움 이란?"
+cover: "#19 Beautiful?"
 date: 2019-08-28 11:00:00 +0900
 description: 미의 기준은 시대에 따라 공간에 따라 조금씩 다르다. 유행과 같다. 내가 이 유행에 휩쓸린 필요는 없다. 
 img: 2019-08-28-Jeju-Babo-Cafe.jpg 

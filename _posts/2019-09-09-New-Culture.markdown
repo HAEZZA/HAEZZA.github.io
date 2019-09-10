@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "신문물"
-cover: "New Culture"
+title: "#31 신문물"
+cover: "#31 New Culture"
 date: 2019-09-09 17:00:00 +0900
 description: 라오스를 떠나 1년만에 마주한 신문물인 모노레일을 타고 쿠알라룸푸르 시내에 예약해둔 숙소를 찾아갔다.
 img: 2019-09-09-KualaLumpur.jpg 

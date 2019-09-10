@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "가난해서 미안해"
-cover: "I'm Sorry For Being Poor"
+title: "#22 가난해서 미안해"
+cover: "#22 I'm Sorry For Being Poor"
 date: 2019-08-31 11:00:00 +0900
 description: 앙코르와트에서 만난 소녀의 1 달러 물건도 사주지 못할 정도로 가난했던가를 되돌아보며, 부자는 좋은 사람이 되기 싶다는 말이 떠올랐다.
 img: 2019-08-31-Angkor-Wat.JPEG

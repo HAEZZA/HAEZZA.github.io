@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "엽서 하나에 호구, 호구, ... 호구님"
-cover: "Write Postcards And Ho9, Ho9, ... Ho9"
+title: "#24 엽서 하나에 호구, 호구, ... 호구님"
+cover: "#24 Write Postcards And Ho9, Ho9, ... Ho9"
 date: 2019-09-02 15:00:00 +0900
 description: 캄보디아 씨엠립 앞 카페에서 엽서를 쓰는 호구의 이야기이다. 난 여행을 가면 그 나라의 랜드마크가 프린트된 엽서를 사서, 그 나라의 우표를 붙인 다음 나에게 보내는 게 취미다.
 img: 2019-09-02.jpg 

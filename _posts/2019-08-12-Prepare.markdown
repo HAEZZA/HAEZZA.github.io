@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "#2. 모험을 떠나기전에"
-cover: "#2. Before Starting The Trip"
+title: "#3 모험을 떠나기전에"
+cover: "#3 Before Starting The Trip"
 date: 2019-08-09 10:00:00 +0900
 description: 모험을 떠나기전에 준비한 소소한 것들.# Add post description (optional)
 img: 2013-03-14-momo.jpg # Add image post (optional)

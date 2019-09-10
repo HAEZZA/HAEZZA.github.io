@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "라오스의 맛"
-cover: "Taste Of Laos"
+title: "#6 라오스의 맛"
+cover: "#6 Taste Of Laos"
 date: 2019-08-18 14:00:00 +0900
 description: 내가 좋아했던 라오스의 음식들 카오 삐약, 랍무와 카오니아오, 결혼식 음식들 그리고 땀미. 
 img: 2019-08-17-ganesha.jpg 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "그리고 아무도 없었다 후속편"
-cover: "And Then There Were None Sequel"
+title: "#29 그리고 아무도 없었다 후속편"
+cover: "#29 And Then There Were None Sequel"
 date: 2019-09-07 11:00:00 +0900
 description: 그리고 아무도 없었다 후속편 
 img: 2019-09-07-Jeju.jpg 

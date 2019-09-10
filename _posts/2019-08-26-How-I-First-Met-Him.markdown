@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "그렇게 우리는 처음 만났다"
-cover: "How I First Met Him"
+title: "#16 그렇게 우리는 처음 만났다"
+cover: "#16 How I First Met Him"
 date: 2019-08-26 15:00:00 +0900
 description: 라오스 돈콘에서 생긴 로맨스. 그의 머리칼에는 방금 샤워를 하고 나온 듯 송골송골 물방울이 맺혀있었고, 마침 불어온 바람에 좋은 향기가 바람을 따라 내 콧속을 간지럽혔다. # Add post description (optional)
 img: 2019-08-26-Varanasi-Dock.jpg # Add image post (optional)
