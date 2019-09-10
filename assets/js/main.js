@@ -12,6 +12,13 @@ $(function () {
     flexContainer.toggleClass('active')
   })
 
+  // Click menu
+  $('.active-element').on({
+	  'touchstart' : function () {
+			$(this).addClass('fake-active');
+	  }
+  })
+
   // Click outside of menu to close it
   flexContainer.click(function (e) {
     if (flexContainer.hasClass('active') && e.target.tagName !== 'A') {
