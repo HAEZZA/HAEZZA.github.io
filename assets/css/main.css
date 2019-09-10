@@ -789,7 +789,7 @@ pre {
       .menu-main li a:hover {
         opacity: .8;
         color: #87314e; }
-    .menu-main li:hover .menu-sub {
+    .menu-main li:hover + .menu-sub {
       display: block; }
 
 .menu-sub {

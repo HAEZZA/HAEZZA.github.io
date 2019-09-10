@@ -54,7 +54,7 @@
         color: $dark-pink;
       }
     }
-    &:hover .menu-sub {
+    &:hover + .menu-sub {
       display: block;
     }
   }
