@@ -6,7 +6,6 @@
       </div>
       <nav class="main-nav">
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
-		<div class="responsive-menu">
         <ul>
           <div id="archives">
           {%- for category in site.categories -%}
@@ -28,8 +27,7 @@
 					{%- endif -%}
 					</ul>
 			   </li>
-			   </div>
-            </div>
+			</div>
            {%- endfor -%}
             <li><a href="{{site.baseurl}}/about">About</a></li>
           </div>

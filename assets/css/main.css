@@ -771,46 +771,45 @@ pre {
   background-color: #fff;
   padding: 25px 30px;
   transform: translate3d(-300px, 0, 0); }
-
-.responsive-menu ul {
-  padding: 15px 0 0;
-  margin: 0;
-  list-style: none; }
-  .responsive-menu ul li {
-    border-bottom: 1px solid #d9d9d9; }
-    .responsive-menu ul li a {
-      display: block;
-      padding: 15px 0;
-      text-decoration: none;
-      text-transform: uppercase;
-      font-weight: 400;
-      font-size: 18px;
-      color: #311e3e; }
-      .responsive-menu ul li a:hover {
-        opacity: .8;
-        color: #87314e; }
-    .responsive-menu ul li ul {
-      padding: 0 80px 0;
-      margin: -70px 0;
-      list-style: none;
-      display: none;
-      height: auto;
-      z-index: 200;
-      position: absolute; }
-      .responsive-menu ul li ul li {
-        border-top: 1px solid #d9d9d9; }
-        .responsive-menu ul li ul li a {
-          background-color: #fff;
-          padding: 0px 0;
-          text-decoration: none;
-          font-weight: 400;
-          font-size: 14px;
+  .main-nav ul {
+    padding: 15px 0 0;
+    margin: 0;
+    list-style: none; }
+    .main-nav ul li {
+      border-bottom: 1px solid #d9d9d9; }
+      .main-nav ul li a {
+        display: block;
+        padding: 15px 0;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 18px;
+        color: #311e3e; }
+        .main-nav ul li a:hover {
+          opacity: .8;
           color: #87314e; }
-          .responsive-menu ul li ul li a:hover {
-            opacity: .8;
-            color: #311e3e; }
-    .responsive-menu ul li:hover {
-      display: block; }
+      .main-nav ul li ul {
+        padding: 0 80px 0;
+        margin: -70px 0;
+        list-style: none;
+        display: none;
+        height: auto;
+        z-index: 200;
+        position: absolute; }
+        .main-nav ul li ul li {
+          border-top: 1px solid #d9d9d9; }
+          .main-nav ul li ul li a {
+            background-color: #fff;
+            padding: 0px 0;
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 14px;
+            color: #87314e; }
+            .main-nav ul li ul li a:hover {
+              opacity: .8;
+              color: #311e3e; }
+      .main-nav ul li:hover {
+        display: block; }
 
 .menu-icon-container {
   width: 25%;
