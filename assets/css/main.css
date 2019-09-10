@@ -771,43 +771,45 @@ pre {
   background-color: #fff;
   padding: 25px 30px;
   transform: translate3d(-300px, 0, 0); }
-  .main-nav ul.main {
-    padding: 15px 0 0;
-    margin: 0;
-    list-style: none; }
-    .main-nav ul.main li {
-      border-bottom: 1px solid #d9d9d9; }
-      .main-nav ul.main li a {
-        display: block;
-        padding: 15px 0;
-        text-decoration: none;
-        text-transform: uppercase;
-        font-weight: 400;
-        font-size: 18px;
-        color: #311e3e; }
-        .main-nav ul.main li a:hover {
-          opacity: .8;
-          color: #87314e; }
-  .main-nav ul.sub {
-    padding: 0 80px 0;
-    margin: -70px 0;
-    list-style: none;
-    display: none;
-    height: auto;
-    z-index: 200;
-    position: absolute; }
-    .main-nav ul.sub li {
-      border-top: 1px solid #d9d9d9; }
-      .main-nav ul.sub li a {
-        background-color: #fff;
-        padding: 0px 0;
-        text-decoration: none;
-        font-weight: 400;
-        font-size: 14px;
+
+.menu-main ul {
+  padding: 15px 0 0;
+  margin: 0;
+  list-style: none; }
+  .menu-main ul li {
+    border-bottom: 1px solid #d9d9d9; }
+    .menu-main ul li a {
+      display: block;
+      padding: 15px 0;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-weight: 400;
+      font-size: 18px;
+      color: #311e3e; }
+      .menu-main ul li a:hover {
+        opacity: .8;
         color: #87314e; }
-        .main-nav ul.sub li a:hover {
-          opacity: .8;
-          color: #311e3e; }
+
+.menu-sub ul {
+  padding: 0 80px 0;
+  margin: -70px 0;
+  list-style: none;
+  display: none;
+  height: auto;
+  z-index: 200;
+  position: absolute; }
+  .menu-sub ul li {
+    border-top: 1px solid #d9d9d9; }
+    .menu-sub ul li a {
+      background-color: #fff;
+      padding: 0px 0;
+      text-decoration: none;
+      font-weight: 400;
+      font-size: 14px;
+      color: #87314e; }
+      .menu-sub ul li a:hover {
+        opacity: .8;
+        color: #311e3e; }
 
 .menu-icon-container {
   width: 25%;
