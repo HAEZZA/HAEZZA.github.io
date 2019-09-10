@@ -13,7 +13,6 @@ $(function () {
   })
 
   // Menu Ul Settings
-  $('.menu-sub').hide();
   $('.menu-main li').click(function (e) {
     $('.menu-sub').toggle();
   })
