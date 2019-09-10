@@ -789,8 +789,6 @@ pre {
       .menu-main li a:hover {
         opacity: .8;
         color: #87314e; }
-    .menu-main li:hover + ul.menu-sub {
-      display: block; }
 
 .menu-sub {
   padding: 0 80px 0;
@@ -812,6 +810,9 @@ pre {
       .menu-sub li a:hover {
         opacity: .8;
         color: #311e3e; }
+
+li.menu-main:hover ul.menu-sub {
+  display: block; }
 
 .menu-icon-container {
   width: 25%;

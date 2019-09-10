@@ -54,9 +54,6 @@
         color: $dark-pink;
       }
     }
-    &:hover + ul.menu-sub {
-      display: block;
-    }
   }
 }
 
@@ -84,6 +81,10 @@
        }       
      }
    }
+}
+
+li.menu-main:hover  ul.menu-sub {
+      display: block;
 }
 
 .menu-icon-container {
