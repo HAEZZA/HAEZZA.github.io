@@ -81,15 +81,10 @@
           }
         }
       }
+      &:hover {
+        display: block;
+      }
     }
-  }
-}
-
-#trigger {
-  display: none;
-  
-  &:checked + .responsive-menu ul li:hover ul{
-	display: block;
   }
 }
 

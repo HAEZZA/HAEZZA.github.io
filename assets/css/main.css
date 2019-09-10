@@ -809,11 +809,8 @@ pre {
           .responsive-menu ul li ul li a:hover {
             opacity: .8;
             color: #311e3e; }
-
-#trigger {
-  display: none; }
-  #trigger:checked + .responsive-menu ul li:hover ul {
-    display: block; }
+    .responsive-menu ul li:hover {
+      display: block; }
 
 .menu-icon-container {
   width: 25%;

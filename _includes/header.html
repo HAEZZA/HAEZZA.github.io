@@ -13,11 +13,11 @@
             <div class="archive-group">
               {% capture category_name %}{{ category | first }}{% endcapture %}
               <div id="#{{ category_name | slugize }}"></div>			  
-              <li>
+              <li tabindex="9999">
 			  {%- if category_name != "trip" -%}
-			  <lable for="trigger"><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} [{{ site.categories[category_name].size }}]</a></label>
+			  <a href="{{site.baseurl}}/{{category_name}}">{{ category_name }} [{{ site.categories[category_name].size }}]</a>
 			  {%- else -%}
-			  <lable for="trigger"><a> {{ category_name }} [{{ site.categories[category_name].size }}]</a></label>
+			  <a> {{ category_name }} [{{ site.categories[category_name].size }}]</a>
 			  {%- endif -%}
 					<ul>
 					{%- if category_name == "trip" -%}
