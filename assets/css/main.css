@@ -792,7 +792,7 @@ pre {
         padding: 0 80px 0;
         margin: -70px 0;
         list-style: none;
-        display: none !important;
+        display: none;
         height: auto;
         z-index: 200;
         position: absolute; }
@@ -811,7 +811,7 @@ pre {
       .main-nav ul li:hover dl {
         display: block; }
       .main-nav ul li:focus dl {
-        display: none !important; }
+        display: block !important; }
 
 .menu-icon-container {
   width: 25%;
