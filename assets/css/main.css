@@ -808,6 +808,8 @@ pre {
             .main-nav ul li dl dt a:hover {
               opacity: .8;
               color: #311e3e; }
+      .main-nav ul li:hover dl {
+        display: block; }
       .main-nav ul li:active dl {
         display: block; }
 
