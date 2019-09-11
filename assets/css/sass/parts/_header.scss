@@ -83,7 +83,7 @@
    }
 }
 
-li.menu-main:hover  ul.menu-sub {
+.menu-main li:hover + .menu-sub {
       display: block;
 }
 

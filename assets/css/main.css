@@ -811,7 +811,7 @@ pre {
         opacity: .8;
         color: #311e3e; }
 
-li.menu-main:hover ul.menu-sub {
+.menu-main li:hover + .menu-sub {
   display: block; }
 
 .menu-icon-container {
