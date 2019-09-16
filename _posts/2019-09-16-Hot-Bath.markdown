@@ -4,7 +4,7 @@ title: "#34 뜨끈한 물에 지지고 싶고만"
 cover: "#34 Hot Bath"
 date: 2019-09-16 17:00:00 +0900
 description: 
-img: 2019-09-11-Jeju-Cafe-Burano.jpg 
+img: 2019-09-16-Jeju-Cafe100per.JPEG 
 tags: [Trip, Laos, Malaysia, Kuala Lumpur]
 categories: trip
 author: dubuholic 
@@ -47,6 +47,6 @@ author: dubuholic
 <p class="page-quote">휴- 뜨끈한 물에 지지고 싶고만</p>             
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-09-11-Jeju-Sangumburi.jpg" alt="제주 산굼부리 노을빛 머금은 억새들" style="width: 100%; height: auto;">   
-        <p>제주 산굼부리 노을빛 머금은 억새들</p>
+        <img src="/assets/img/2019-09-16-Malacca.JPEG" alt="말레이시아 말라카에서 만난 낙엽 도장" style="width: 100%; height: auto;">   
+        <p>말레이시아 말라카에서 만난 낙엽 도장</p>
 </div>
