@@ -3,7 +3,7 @@ layout: post
 title: "#34 뜨끈한 물에 지지고 싶고만"
 cover: "#34 Hot Bath"
 date: 2019-09-16 17:00:00 +0900
-description: 
+description: 내가 쿠알라룸푸르 숙소의 샤워기 아래에서 한 참 동안 서 있었던 이유는
 img: 2019-09-16-Jeju-Cafe100per.JPEG 
 tags: [Trip, Laos, Malaysia, Kuala Lumpur]
 categories: trip
