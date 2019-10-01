@@ -45,6 +45,6 @@ author: dubuholic
 <p class="page-quote">바람이 이렇게 무섭다.</p>
 
 <div class="page-last-image">
-        <img src="/assets/img/2019-09-27-India-Ganges.jpg" alt="인도 바라나시 멍하니 갠지스강 바라보기" style="width: 100%; height: auto;">   
-        <p>인도 바라나시 멍하니 갠지스강 바라보기</p>
+        <img src="/assets/img/2019-09-27-India-Ganges.jpg" alt="인도 바라나시 갠지스강 멍하니 바라보기" style="width: 100%; height: auto;">   
+        <p>인도 바라나시 갠지스강 멍하니 바라보기</p>
 </div>
