@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "#43 가네샤"
 cover: "#43 Ganesa"
